@@ -1,0 +1,101 @@
+season,ncaa_division,ncaa_division_formatted,team_conference_name,team_id,school_name,sport_id,school_id
+2013,1,I,America East,79310,UAlbany,WLA,14
+2013,1,I,Patriot,79311,American,WLA,23
+2013,1,I,America East,79312,Binghamton,WLA,62
+2013,1,I,ACC,79313,Boston College,WLA,67
+2013,1,I,America East,79314,Boston U.,WLA,68
+2013,1,I,Ivy League,79315,Brown,WLA,80
+2013,1,I,NEC,79316,Bryant,WLA,81
+2013,1,I,Patriot,79317,Bucknell,WLA,83
+2013,1,I,MPSF,79318,Fresno St.,WLA,96
+2013,1,I,MPSF,79319,California,WLA,107
+2013,1,I,MPSF,79320,UC Davis,WLA,108
+2013,1,I,Big South,79321,Campbell,WLA,115
+2013,1,I,MAAC,79322,Canisius,WLA,116
+2013,1,I,NEC,79323,Central Conn. St.,WLA,127
+2013,1,I,The American,79324,Cincinnati,WLA,140
+2013,1,I,Big South,79325,Coastal Carolina,WLA,149
+2013,1,I,Patriot,79326,Colgate,WLA,153
+2013,1,I,Ivy League,79327,Columbia,WLA,158
+2013,1,I,The American,79328,UConn,WLA,164
+2013,1,I,Ivy League,79329,Cornell,WLA,167
+2013,1,I,Ivy League,79330,Dartmouth,WLA,172
+2013,1,I,Big South,79331,Davidson,WLA,173
+2013,1,I,Independent,79332,Delaware St.,WLA,178
+2013,1,I,CAA,79333,Delaware,WLA,180
+2013,1,I,MPSF,79334,Denver,WLA,183
+2013,1,I,ASUN,79335,Detroit Mercy,WLA,184
+2013,1,I,CAA,79336,Drexel,WLA,191
+2013,1,I,ACC,79337,Duke,WLA,193
+2013,1,I,Atlantic 10,79338,Duquesne,WLA,194
+2013,1,I,MAAC,79339,Fairfield,WLA,220
+2013,1,I,American Lacrosse,79340,Florida,WLA,235
+2013,1,I,CAA,79341,George Mason,WLA,248
+2013,1,I,Atlantic 10,79342,George Washington,WLA,249
+2013,1,I,The American,79343,Georgetown,WLA,251
+2013,1,I,Ivy League,79344,Harvard,WLA,275
+2013,1,I,CAA,79345,Hofstra,WLA,283
+2013,1,I,Patriot,79346,Holy Cross,WLA,285
+2013,1,I,ASUN,79347,Howard,WLA,290
+2013,1,I,MAAC,79348,Iona,WLA,310
+2013,1,I,ASUN,79349,Jacksonville,WLA,316
+2013,1,I,CAA,79350,James Madison,WLA,317
+2013,1,I,American Lacrosse,79351,Johns Hopkins,WLA,322
+2013,1,I,Atlantic 10,79352,La Salle,WLA,340
+2013,1,I,Patriot,79353,Lafayette,WLA,342
+2013,1,I,Patriot,79354,Lehigh,WLA,352
+2013,1,I,Big South,79355,Liberty,WLA,355
+2013,1,I,NEC,79356,LIU,WLA,361
+2013,1,I,Big South,79357,Longwood,WLA,363
+2013,1,I,The American,79358,Louisville,WLA,367
+2013,1,I,The American,79359,Loyola Maryland,WLA,369
+2013,1,I,MAAC,79360,Manhattan,WLA,381
+2013,1,I,MAAC,79361,Marist,WLA,386
+2013,1,I,Independent,79362,Marquette,WLA,387
+2013,1,I,America East,79363,UMBC,WLA,391
+2013,1,I,ACC,79364,Maryland,WLA,392
+2013,1,I,Atlantic 10,79365,Massachusetts,WLA,400
+2013,1,I,NEC,79366,Monmouth,WLA,439
+2013,1,I,NEC,79367,Mount St. Mary's,WLA,450
+2013,1,I,ACC,79368,North Carolina,WLA,457
+2013,1,I,America East,79369,New Hampshire,WLA,469
+2013,1,I,MAAC,79370,Niagara,WLA,482
+2013,1,I,American Lacrosse,79371,Northwestern,WLA,509
+2013,1,I,The American,79372,Notre Dame,WLA,513
+2013,1,I,American Lacrosse,79373,Ohio St.,WLA,518
+2013,1,I,CAA,79374,Old Dominion,WLA,523
+2013,1,I,MPSF,79375,Oregon,WLA,529
+2013,1,I,American Lacrosse,79376,Penn St.,WLA,539
+2013,1,I,Ivy League,79377,Penn,WLA,540
+2013,1,I,Ivy League,79378,Princeton,WLA,554
+2013,1,I,NEC,79379,Quinnipiac,WLA,562
+2013,1,I,Atlantic 10,79380,Richmond,WLA,575
+2013,1,I,NEC,79381,Robert Morris,WLA,579
+2013,1,I,The American,79382,Rutgers,WLA,587
+2013,1,I,NEC,79383,Sacred Heart,WLA,590
+2013,1,I,Atlantic 10,79384,St. Bonaventure,WLA,596
+2013,1,I,NEC,79385,Saint Francis,WLA,600
+2013,1,I,Atlantic 10,79386,Saint Joseph's,WLA,606
+2013,1,I,MPSF,79387,Saint Mary's (CA),WLA,610
+2013,1,I,MPSF,79388,San Diego St.,WLA,626
+2013,1,I,MAAC,79389,Siena,WLA,639
+2013,1,I,MPSF,79390,Southern California,WLA,657
+2013,1,I,MPSF,79391,Stanford,WLA,674
+2013,1,I,ASUN,79392,Stetson,WLA,678
+2013,1,I,America East,79393,Stony Brook,WLA,683
+2013,1,I,The American,79394,Syracuse,WLA,688
+2013,1,I,Atlantic 10,79395,Temple,WLA,690
+2013,1,I,CAA,79396,Towson,WLA,711
+2013,1,I,Patriot,79397,Navy,WLA,726
+2013,1,I,American Lacrosse,79398,Vanderbilt,WLA,736
+2013,1,I,America East,79399,Vermont,WLA,738
+2013,1,I,The American,79400,Villanova,WLA,739
+2013,1,I,ACC,79401,Virginia Tech,WLA,742
+2013,1,I,ACC,79402,Virginia,WLA,746
+2013,1,I,NEC,79403,Wagner,WLA,748
+2013,1,I,CAA,79404,William & Mary,WLA,786
+2013,1,I,Big South,79405,Winthrop,WLA,792
+2013,1,I,Ivy League,79406,Yale,WLA,813
+2013,1,I,ASUN,79407,Kennesaw St.,WLA,1157
+2013,1,I,Big South,79408,Presbyterian,WLA,1320
+2013,1,I,Big South,79409,High Point,WLA,19651

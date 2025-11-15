@@ -1,0 +1,108 @@
+season,ncaa_division,ncaa_division_formatted,team_conference_name,team_id,school_name,sport_id,school_id
+2015,1,1,America East,18731,UAlbany,WLA,14
+2015,1,1,Patriot,18732,American,WLA,23
+2015,1,1,America East,18733,Binghamton,WLA,62
+2015,1,1,ACC,18734,Boston College,WLA,67
+2015,1,1,Patriot,18735,Boston U.,WLA,68
+2015,1,1,Ivy League,18736,Brown,WLA,80
+2015,1,1,NEC,18737,Bryant,WLA,81
+2015,1,1,Patriot,18738,Bucknell,WLA,83
+2015,1,1,MPSF,18739,Fresno St.,WLA,96
+2015,1,1,MPSF,18740,California,WLA,107
+2015,1,1,MPSF,18741,UC Davis,WLA,108
+2015,1,1,Big South,18742,Campbell,WLA,115
+2015,1,1,MAAC,18743,Canisius,WLA,116
+2015,1,1,NEC,18744,Central Conn. St.,WLA,127
+2015,1,1,Big East,18745,Cincinnati,WLA,140
+2015,1,1,Big South,18746,Coastal Carolina,WLA,149
+2015,1,1,Patriot,18747,Colgate,WLA,153
+2015,1,1,MPSF,18748,Colorado,WLA,157
+2015,1,1,Ivy League,18749,Columbia,WLA,158
+2015,1,1,Big East,18750,UConn,WLA,164
+2015,1,1,Ivy League,18751,Cornell,WLA,167
+2015,1,1,Ivy League,18752,Dartmouth,WLA,172
+2015,1,1,Atlantic 10,18753,Davidson,WLA,173
+2015,1,1,Independent,18754,Delaware St.,WLA,178
+2015,1,1,CAA,18755,Delaware,WLA,180
+2015,1,1,MPSF,18756,Denver,WLA,183
+2015,1,1,ASUN,18757,Detroit Mercy,WLA,184
+2015,1,1,CAA,18758,Drexel,WLA,191
+2015,1,1,ACC,18759,Duke,WLA,193
+2015,1,1,Atlantic 10,18760,Duquesne,WLA,194
+2015,1,1,MAAC,18761,Fairfield,WLA,220
+2015,1,1,Big East,18762,Florida,WLA,235
+2015,1,1,ASUN,18763,Furman,WLA,244
+2015,1,1,Atlantic 10,18764,George Mason,WLA,248
+2015,1,1,Atlantic 10,18765,George Washington,WLA,249
+2015,1,1,Big East,18766,Georgetown,WLA,251
+2015,1,1,Ivy League,18767,Harvard,WLA,275
+2015,1,1,CAA,18768,Hofstra,WLA,283
+2015,1,1,Patriot,18769,Holy Cross,WLA,285
+2015,1,1,ASUN,18770,Howard,WLA,290
+2015,1,1,MAAC,18771,Iona,WLA,310
+2015,1,1,ASUN,18772,Jacksonville,WLA,316
+2015,1,1,CAA,18773,James Madison,WLA,317
+2015,1,1,Independent,18774,Johns Hopkins,WLA,322
+2015,1,1,Atlantic 10,18775,La Salle,WLA,340
+2015,1,1,Patriot,18776,Lafayette,WLA,342
+2015,1,1,Patriot,18777,Lehigh,WLA,352
+2015,1,1,Big South,18778,Liberty,WLA,355
+2015,1,1,NEC,18779,LIU,WLA,361
+2015,1,1,Big South,18780,Longwood,WLA,363
+2015,1,1,ACC,18781,Louisville,WLA,367
+2015,1,1,America East,18782,UMass Lowell,WLA,368
+2015,1,1,Patriot,18783,Loyola Maryland,WLA,369
+2015,1,1,MAAC,18784,Manhattan,WLA,381
+2015,1,1,MAAC,18785,Marist,WLA,386
+2015,1,1,Big East,18786,Marquette,WLA,387
+2015,1,1,America East,18787,UMBC,WLA,391
+2015,1,1,Big Ten,18788,Maryland,WLA,392
+2015,1,1,Atlantic 10,18789,Massachusetts,WLA,400
+2015,1,1,ASUN,18790,Mercer,WLA,406
+2015,1,1,Big Ten,18791,Michigan,WLA,418
+2015,1,1,MAAC,18792,Monmouth,WLA,439
+2015,1,1,NEC,18793,Mount St. Mary's,WLA,450
+2015,1,1,ACC,18794,North Carolina,WLA,457
+2015,1,1,America East,18795,New Hampshire,WLA,469
+2015,1,1,MAAC,18796,Niagara,WLA,482
+2015,1,1,Big Ten,18797,Northwestern,WLA,509
+2015,1,1,ACC,18798,Notre Dame,WLA,513
+2015,1,1,Big Ten,18799,Ohio St.,WLA,518
+2015,1,1,ASUN,18800,Old Dominion,WLA,523
+2015,1,1,MPSF,18801,Oregon,WLA,529
+2015,1,1,Big Ten,18802,Penn St.,WLA,539
+2015,1,1,Ivy League,18803,Penn,WLA,540
+2015,1,1,Ivy League,18804,Princeton,WLA,554
+2015,1,1,MAAC,18805,Quinnipiac,WLA,562
+2015,1,1,Atlantic 10,18806,Richmond,WLA,575
+2015,1,1,NEC,18807,Robert Morris,WLA,579
+2015,1,1,Big Ten,18808,Rutgers,WLA,587
+2015,1,1,NEC,18809,Sacred Heart,WLA,590
+2015,1,1,Atlantic 10,18810,St. Bonaventure,WLA,596
+2015,1,1,NEC,18811,Saint Francis,WLA,600
+2015,1,1,Atlantic 10,18812,Saint Joseph's,WLA,606
+2015,1,1,MPSF,18813,Saint Mary's (CA),WLA,610
+2015,1,1,MPSF,18814,San Diego St.,WLA,626
+2015,1,1,MAAC,18815,Siena,WLA,639
+2015,1,1,MPSF,18816,Southern California,WLA,657
+2015,1,1,MPSF,18817,Stanford,WLA,674
+2015,1,1,ASUN,18818,Stetson,WLA,678
+2015,1,1,America East,18819,Stony Brook,WLA,683
+2015,1,1,ACC,18820,Syracuse,WLA,688
+2015,1,1,Big East,18821,Temple,WLA,690
+2015,1,1,CAA,18822,Towson,WLA,711
+2015,1,1,Patriot,18823,Navy,WLA,726
+2015,1,1,Big East,18824,Vanderbilt,WLA,736
+2015,1,1,America East,18825,Vermont,WLA,738
+2015,1,1,Big East,18826,Villanova,WLA,739
+2015,1,1,ACC,18827,Virginia Tech,WLA,742
+2015,1,1,ACC,18828,Virginia,WLA,746
+2015,1,1,NEC,18829,Wagner,WLA,748
+2015,1,1,CAA,18830,William & Mary,WLA,786
+2015,1,1,Big South,18831,Winthrop,WLA,792
+2015,1,1,Ivy League,18832,Yale,WLA,813
+2015,1,1,CAA,18833,Elon,WLA,1068
+2015,1,1,Big South,18834,Gardner-Webb,WLA,1092
+2015,1,1,ASUN,18835,Kennesaw St.,WLA,1157
+2015,1,1,Big South,18836,Presbyterian,WLA,1320
+2015,1,1,Big South,18837,High Point,WLA,19651

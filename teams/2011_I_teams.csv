@@ -1,0 +1,91 @@
+season,ncaa_division,ncaa_division_formatted,team_conference_name,team_id,school_name,sport_id,school_id
+2011,1,I,America East,29674,UAlbany,WLA,14
+2011,1,I,Patriot,29675,American,WLA,23
+2011,1,I,America East,29676,Binghamton,WLA,62
+2011,1,I,ACC,29677,Boston College,WLA,67
+2011,1,I,America East,29678,Boston U.,WLA,68
+2011,1,I,Ivy League,29679,Brown,WLA,80
+2011,1,I,NEC,29680,Bryant,WLA,81
+2011,1,I,Patriot,29681,Bucknell,WLA,83
+2011,1,I,MPSF,29682,Fresno St.,WLA,96
+2011,1,I,MPSF,29683,California,WLA,107
+2011,1,I,MPSF,29684,UC Davis,WLA,108
+2011,1,I,MAAC,29685,Canisius,WLA,116
+2011,1,I,NEC,29686,Central Conn. St.,WLA,127
+2011,1,I,The American,29687,Cincinnati,WLA,140
+2011,1,I,Patriot,29688,Colgate,WLA,153
+2011,1,I,Ivy League,29689,Columbia,WLA,158
+2011,1,I,The American,29690,UConn,WLA,164
+2011,1,I,Ivy League,29691,Cornell,WLA,167
+2011,1,I,Ivy League,29692,Dartmouth,WLA,172
+2011,1,I,Davidson,29693,Davidson,WLA,173
+2011,1,I,CAA,29694,Delaware,WLA,180
+2011,1,I,MPSF,29695,Denver,WLA,183
+2011,1,I,Detroit Mercy,29696,Detroit Mercy,WLA,184
+2011,1,I,CAA,29697,Drexel,WLA,191
+2011,1,I,ACC,29698,Duke,WLA,193
+2011,1,I,Atlantic 10,29699,Duquesne,WLA,194
+2011,1,I,MAAC,29700,Fairfield,WLA,220
+2011,1,I,American LaCrosse,29701,Florida,WLA,235
+2011,1,I,CAA,29702,George Mason,WLA,248
+2011,1,I,Atlantic 10,29703,George Washington,WLA,249
+2011,1,I,The American,29704,Georgetown,WLA,251
+2011,1,I,Ivy League,29705,Harvard,WLA,275
+2011,1,I,CAA,29706,Hofstra,WLA,283
+2011,1,I,Patriot,29707,Holy Cross,WLA,285
+2011,1,I,Howard,29708,Howard,WLA,290
+2011,1,I,MAAC,29709,Iona,WLA,310
+2011,1,I,Jacksonville,29710,Jacksonville,WLA,316
+2011,1,I,CAA,29711,James Madison,WLA,317
+2011,1,I,American LaCrosse,29712,Johns Hopkins,WLA,322
+2011,1,I,Atlantic 10,29713,La Salle,WLA,340
+2011,1,I,Patriot,29714,Lafayette,WLA,342
+2011,1,I,Patriot,29715,Lehigh,WLA,352
+2011,1,I,Liberty,29716,Liberty,WLA,355
+2011,1,I,NEC,29717,LIU,WLA,361
+2011,1,I,Longwood,29718,Longwood,WLA,363
+2011,1,I,The American,29719,Louisville,WLA,367
+2011,1,I,The American,29720,Loyola Maryland,WLA,369
+2011,1,I,MAAC,29721,Manhattan,WLA,381
+2011,1,I,MAAC,29722,Marist,WLA,386
+2011,1,I,America East,29723,UMBC,WLA,391
+2011,1,I,ACC,29724,Maryland,WLA,392
+2011,1,I,Atlantic 10,29725,Massachusetts,WLA,400
+2011,1,I,NEC,29726,Monmouth,WLA,439
+2011,1,I,NEC,29727,Mount St. Mary's,WLA,450
+2011,1,I,ACC,29728,North Carolina,WLA,457
+2011,1,I,America East,29729,New Hampshire,WLA,469
+2011,1,I,MAAC,29730,Niagara,WLA,482
+2011,1,I,American LaCrosse,29731,Northwestern,WLA,509
+2011,1,I,The American,29732,Notre Dame,WLA,513
+2011,1,I,American LaCrosse,29733,Ohio St.,WLA,518
+2011,1,I,CAA,29734,Old Dominion,WLA,523
+2011,1,I,MPSF,29735,Oregon,WLA,529
+2011,1,I,American LaCrosse,29736,Penn St.,WLA,539
+2011,1,I,Ivy League,29737,Penn,WLA,540
+2011,1,I,Ivy League,29738,Princeton,WLA,554
+2011,1,I,NEC,29739,Quinnipiac,WLA,562
+2011,1,I,Atlantic 10,29740,Richmond,WLA,575
+2011,1,I,NEC,29741,Robert Morris,WLA,579
+2011,1,I,The American,29742,Rutgers,WLA,587
+2011,1,I,NEC,29743,Sacred Heart,WLA,590
+2011,1,I,Atlantic 10,29744,St. Bonaventure,WLA,596
+2011,1,I,NEC,29745,Saint Francis,WLA,600
+2011,1,I,Atlantic 10,29746,Saint Joseph's,WLA,606
+2011,1,I,MPSF,29747,Saint Mary's (CA),WLA,610
+2011,1,I,MAAC,29748,Siena,WLA,639
+2011,1,I,MPSF,29749,Stanford,WLA,674
+2011,1,I,America East,29750,Stony Brook,WLA,683
+2011,1,I,The American,29751,Syracuse,WLA,688
+2011,1,I,Atlantic 10,29752,Temple,WLA,690
+2011,1,I,CAA,29753,Towson,WLA,711
+2011,1,I,Patriot,29754,Navy,WLA,726
+2011,1,I,American LaCrosse,29755,Vanderbilt,WLA,736
+2011,1,I,America East,29756,Vermont,WLA,738
+2011,1,I,The American,29757,Villanova,WLA,739
+2011,1,I,ACC,29758,Virginia Tech,WLA,742
+2011,1,I,ACC,29759,Virginia,WLA,746
+2011,1,I,NEC,29760,Wagner,WLA,748
+2011,1,I,CAA,29761,William & Mary,WLA,786
+2011,1,I,Ivy League,29762,Yale,WLA,813
+2011,1,I,High Point,29764,High Point,WLA,19651

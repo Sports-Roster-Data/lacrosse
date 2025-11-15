@@ -1,0 +1,112 @@
+season,ncaa_division,ncaa_division_formatted,team_conference_name,team_id,school_name,sport_id,school_id
+2017,1,1,America East,25511,UAlbany,WLA,14
+2017,1,1,Patriot,25512,American,WLA,23
+2017,1,1,America East,25513,Binghamton,WLA,62
+2017,1,1,ACC,25514,Boston College,WLA,67
+2017,1,1,Patriot,25515,Boston U.,WLA,68
+2017,1,1,Ivy League,25516,Brown,WLA,80
+2017,1,1,NEC,25517,Bryant,WLA,81
+2017,1,1,Patriot,25518,Bucknell,WLA,83
+2017,1,1,Big East,25519,Butler,WLA,87
+2017,1,1,MPSF,25520,Fresno St.,WLA,96
+2017,1,1,MPSF,25521,California,WLA,107
+2017,1,1,MPSF,25522,UC Davis,WLA,108
+2017,1,1,Big South,25523,Campbell,WLA,115
+2017,1,1,MAAC,25524,Canisius,WLA,116
+2017,1,1,NEC,25525,Central Conn. St.,WLA,127
+2017,1,1,ASUN,25526,Central Mich.,WLA,129
+2017,1,1,Big East,25527,Cincinnati,WLA,140
+2017,1,1,ASUN,25528,Coastal Carolina,WLA,149
+2017,1,1,Patriot,25529,Colgate,WLA,153
+2017,1,1,MPSF,25530,Colorado,WLA,157
+2017,1,1,Ivy League,25531,Columbia,WLA,158
+2017,1,1,Big East,25532,UConn,WLA,164
+2017,1,1,Ivy League,25533,Cornell,WLA,167
+2017,1,1,Ivy League,25534,Dartmouth,WLA,172
+2017,1,1,Atlantic 10,25535,Davidson,WLA,173
+2017,1,1,ASUN,25536,Delaware St.,WLA,178
+2017,1,1,CAA,25537,Delaware,WLA,180
+2017,1,1,Big East,25538,Denver,WLA,183
+2017,1,1,ASUN,25539,Detroit Mercy,WLA,184
+2017,1,1,CAA,25540,Drexel,WLA,191
+2017,1,1,ACC,25541,Duke,WLA,193
+2017,1,1,Atlantic 10,25542,Duquesne,WLA,194
+2017,1,1,MAAC,25543,Fairfield,WLA,220
+2017,1,1,Big East,25544,Florida,WLA,235
+2017,1,1,ASUN,25545,Furman,WLA,244
+2017,1,1,Atlantic 10,25546,George Mason,WLA,248
+2017,1,1,Atlantic 10,25547,George Washington,WLA,249
+2017,1,1,Big East,25548,Georgetown,WLA,251
+2017,1,1,Ivy League,25549,Harvard,WLA,275
+2017,1,1,CAA,25550,Hofstra,WLA,283
+2017,1,1,Patriot,25551,Holy Cross,WLA,285
+2017,1,1,ASUN,25552,Howard,WLA,290
+2017,1,1,MAAC,25553,Iona,WLA,310
+2017,1,1,ASUN,25554,Jacksonville,WLA,316
+2017,1,1,CAA,25555,James Madison,WLA,317
+2017,1,1,Big Ten,25556,Johns Hopkins,WLA,322
+2017,1,1,Atlantic 10,25557,La Salle,WLA,340
+2017,1,1,Patriot,25558,Lafayette,WLA,342
+2017,1,1,Patriot,25559,Lehigh,WLA,352
+2017,1,1,Big South,25560,Liberty,WLA,355
+2017,1,1,NEC,25561,LIU,WLA,361
+2017,1,1,Big South,25562,Longwood,WLA,363
+2017,1,1,ACC,25563,Louisville,WLA,367
+2017,1,1,Patriot,25565,Loyola Maryland,WLA,369
+2017,1,1,MAAC,25566,Manhattan,WLA,381
+2017,1,1,MAAC,25567,Marist,WLA,386
+2017,1,1,Big East,25568,Marquette,WLA,387
+2017,1,1,America East,25569,UMBC,WLA,391
+2017,1,1,Big Ten,25570,Maryland,WLA,392
+2017,1,1,Atlantic 10,25571,Massachusetts,WLA,400
+2017,1,1,ASUN,25572,Mercer,WLA,406
+2017,1,1,Big Ten,25573,Michigan,WLA,418
+2017,1,1,MAAC,25574,Monmouth,WLA,439
+2017,1,1,NEC,25575,Mount St. Mary's,WLA,450
+2017,1,1,ACC,25576,North Carolina,WLA,457
+2017,1,1,America East,25577,New Hampshire,WLA,469
+2017,1,1,MAAC,25578,Niagara,WLA,482
+2017,1,1,Big Ten,25579,Northwestern,WLA,509
+2017,1,1,ACC,25580,Notre Dame,WLA,513
+2017,1,1,Big Ten,25581,Ohio St.,WLA,518
+2017,1,1,ASUN,25582,Old Dominion,WLA,523
+2017,1,1,MPSF,25583,Oregon,WLA,529
+2017,1,1,Big Ten,25584,Penn St.,WLA,539
+2017,1,1,Ivy League,25585,Penn,WLA,540
+2017,1,1,Ivy League,25586,Princeton,WLA,554
+2017,1,1,MAAC,25587,Quinnipiac,WLA,562
+2017,1,1,Big South,25588,Radford,WLA,563
+2017,1,1,Atlantic 10,25589,Richmond,WLA,575
+2017,1,1,NEC,25590,Robert Morris,WLA,579
+2017,1,1,Big Ten,25591,Rutgers,WLA,587
+2017,1,1,NEC,25592,Sacred Heart,WLA,590
+2017,1,1,Atlantic 10,25593,St. Bonaventure,WLA,596
+2017,1,1,NEC,25594,Saint Francis,WLA,600
+2017,1,1,Atlantic 10,25595,Saint Joseph's,WLA,606
+2017,1,1,MPSF,25596,Saint Mary's (CA),WLA,610
+2017,1,1,MPSF,25597,San Diego St.,WLA,626
+2017,1,1,MAAC,25598,Siena,WLA,639
+2017,1,1,MPSF,25599,Southern California,WLA,657
+2017,1,1,MPSF,25600,Stanford,WLA,674
+2017,1,1,ASUN,25601,Stetson,WLA,678
+2017,1,1,America East,25602,Stony Brook,WLA,683
+2017,1,1,ACC,25603,Syracuse,WLA,688
+2017,1,1,Big East,25604,Temple,WLA,690
+2017,1,1,CAA,25605,Towson,WLA,711
+2017,1,1,Patriot,25606,Army West Point,WLA,725
+2017,1,1,Patriot,25607,Navy,WLA,726
+2017,1,1,Big East,25608,Vanderbilt,WLA,736
+2017,1,1,America East,25609,Vermont,WLA,738
+2017,1,1,Big East,25610,Villanova,WLA,739
+2017,1,1,Atlantic 10,25611,VCU,WLA,740
+2017,1,1,ACC,25612,Virginia Tech,WLA,742
+2017,1,1,ACC,25613,Virginia,WLA,746
+2017,1,1,NEC,25614,Wagner,WLA,748
+2017,1,1,CAA,25615,William & Mary,WLA,786
+2017,1,1,Big South,25616,Winthrop,WLA,792
+2017,1,1,Ivy League,25617,Yale,WLA,813
+2017,1,1,CAA,25618,Elon,WLA,1068
+2017,1,1,Big South,25619,Gardner-Webb,WLA,1092
+2017,1,1,ASUN,25620,Kennesaw St.,WLA,1157
+2017,1,1,Big South,25621,Presbyterian,WLA,1320
+2017,1,1,Big South,25622,High Point,WLA,19651

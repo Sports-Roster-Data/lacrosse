@@ -1,0 +1,104 @@
+season,ncaa_division,ncaa_division_formatted,team_conference_name,team_id,school_name,sport_id,school_id
+2014,1,I,America East,104829,UAlbany,WLA,14
+2014,1,I,Patriot,104830,American,WLA,23
+2014,1,I,America East,104831,Binghamton,WLA,62
+2014,1,I,ACC,104832,Boston College,WLA,67
+2014,1,I,Patriot,104833,Boston U.,WLA,68
+2014,1,I,Ivy League,104834,Brown,WLA,80
+2014,1,I,NEC,104835,Bryant,WLA,81
+2014,1,I,Patriot,104836,Bucknell,WLA,83
+2014,1,I,MPSF,104837,Fresno St.,WLA,96
+2014,1,I,MPSF,104838,California,WLA,107
+2014,1,I,MPSF,104839,UC Davis,WLA,108
+2014,1,I,Big South,104840,Campbell,WLA,115
+2014,1,I,MAAC,104841,Canisius,WLA,116
+2014,1,I,NEC,104842,Central Conn. St.,WLA,127
+2014,1,I,Big East,104843,Cincinnati,WLA,140
+2014,1,I,Big South,104844,Coastal Carolina,WLA,149
+2014,1,I,Patriot,104845,Colgate,WLA,153
+2014,1,I,MPSF,104846,Colorado,WLA,157
+2014,1,I,Ivy League,104847,Columbia,WLA,158
+2014,1,I,Big East,104848,UConn,WLA,164
+2014,1,I,Ivy League,104849,Cornell,WLA,167
+2014,1,I,Ivy League,104850,Dartmouth,WLA,172
+2014,1,I,Big South,104851,Davidson,WLA,173
+2014,1,I,Independent,104852,Delaware St.,WLA,178
+2014,1,I,CAA,104853,Delaware,WLA,180
+2014,1,I,MPSF,104854,Denver,WLA,183
+2014,1,I,ASUN,104855,Detroit Mercy,WLA,184
+2014,1,I,CAA,104856,Drexel,WLA,191
+2014,1,I,ACC,104857,Duke,WLA,193
+2014,1,I,Atlantic 10,104858,Duquesne,WLA,194
+2014,1,I,MAAC,104859,Fairfield,WLA,220
+2014,1,I,American Lacrosse,104860,Florida,WLA,235
+2014,1,I,Atlantic 10,104861,George Mason,WLA,248
+2014,1,I,Atlantic 10,104862,George Washington,WLA,249
+2014,1,I,Big East,104863,Georgetown,WLA,251
+2014,1,I,Ivy League,104864,Harvard,WLA,275
+2014,1,I,CAA,104865,Hofstra,WLA,283
+2014,1,I,Patriot,104866,Holy Cross,WLA,285
+2014,1,I,ASUN,104867,Howard,WLA,290
+2014,1,I,MAAC,104868,Iona,WLA,310
+2014,1,I,ASUN,104869,Jacksonville,WLA,316
+2014,1,I,CAA,104870,James Madison,WLA,317
+2014,1,I,American Lacrosse,104871,Johns Hopkins,WLA,322
+2014,1,I,Atlantic 10,104872,La Salle,WLA,340
+2014,1,I,Patriot,104873,Lafayette,WLA,342
+2014,1,I,Patriot,104874,Lehigh,WLA,352
+2014,1,I,Big South,104875,Liberty,WLA,355
+2014,1,I,NEC,104876,LIU,WLA,361
+2014,1,I,Big South,104877,Longwood,WLA,363
+2014,1,I,Big East,104878,Louisville,WLA,367
+2014,1,I,Patriot,104879,Loyola Maryland,WLA,369
+2014,1,I,MAAC,104880,Manhattan,WLA,381
+2014,1,I,MAAC,104881,Marist,WLA,386
+2014,1,I,Big East,104882,Marquette,WLA,387
+2014,1,I,America East,104883,UMBC,WLA,391
+2014,1,I,ACC,104884,Maryland,WLA,392
+2014,1,I,Atlantic 10,104885,Massachusetts,WLA,400
+2014,1,I,American Lacrosse,104886,Michigan,WLA,418
+2014,1,I,MAAC,104887,Monmouth,WLA,439
+2014,1,I,NEC,104888,Mount St. Mary's,WLA,450
+2014,1,I,ACC,104889,North Carolina,WLA,457
+2014,1,I,America East,104890,New Hampshire,WLA,469
+2014,1,I,MAAC,104891,Niagara,WLA,482
+2014,1,I,American Lacrosse,104892,Northwestern,WLA,509
+2014,1,I,ACC,104893,Notre Dame,WLA,513
+2014,1,I,American Lacrosse,104894,Ohio St.,WLA,518
+2014,1,I,Independent,104895,Old Dominion,WLA,523
+2014,1,I,MPSF,104896,Oregon,WLA,529
+2014,1,I,American Lacrosse,104897,Penn St.,WLA,539
+2014,1,I,Ivy League,104898,Penn,WLA,540
+2014,1,I,Ivy League,104899,Princeton,WLA,554
+2014,1,I,MAAC,104900,Quinnipiac,WLA,562
+2014,1,I,Atlantic 10,104901,Richmond,WLA,575
+2014,1,I,NEC,104902,Robert Morris,WLA,579
+2014,1,I,Big East,104903,Rutgers,WLA,587
+2014,1,I,NEC,104904,Sacred Heart,WLA,590
+2014,1,I,Atlantic 10,104905,St. Bonaventure,WLA,596
+2014,1,I,NEC,104906,Saint Francis,WLA,600
+2014,1,I,Atlantic 10,104907,Saint Joseph's,WLA,606
+2014,1,I,MPSF,104908,Saint Mary's (CA),WLA,610
+2014,1,I,MPSF,104909,San Diego St.,WLA,626
+2014,1,I,MAAC,104910,Siena,WLA,639
+2014,1,I,MPSF,104911,Southern California,WLA,657
+2014,1,I,MPSF,104912,Stanford,WLA,674
+2014,1,I,ASUN,104913,Stetson,WLA,678
+2014,1,I,America East,104914,Stony Brook,WLA,683
+2014,1,I,ACC,104915,Syracuse,WLA,688
+2014,1,I,Big East,104916,Temple,WLA,690
+2014,1,I,CAA,104917,Towson,WLA,711
+2014,1,I,Patriot,104918,Navy,WLA,726
+2014,1,I,American Lacrosse,104919,Vanderbilt,WLA,736
+2014,1,I,America East,104920,Vermont,WLA,738
+2014,1,I,Big East,104921,Villanova,WLA,739
+2014,1,I,ACC,104922,Virginia Tech,WLA,742
+2014,1,I,ACC,104923,Virginia,WLA,746
+2014,1,I,NEC,104924,Wagner,WLA,748
+2014,1,I,CAA,104925,William & Mary,WLA,786
+2014,1,I,Big South,104926,Winthrop,WLA,792
+2014,1,I,Ivy League,104927,Yale,WLA,813
+2014,1,I,ASUN,104928,Elon,WLA,1068
+2014,1,I,ASUN,104929,Kennesaw St.,WLA,1157
+2014,1,I,Big South,104930,Presbyterian,WLA,1320
+2014,1,I,Big South,104931,High Point,WLA,19651
