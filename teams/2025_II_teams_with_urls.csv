@@ -1,0 +1,113 @@
+season,ncaa_division,ncaa_division_formatted,team_conference_name,team_id,school_name,sport_id,school_id,url
+2025,2,II,SAC,594088,Anderson (SC),WLA,13028,https://autrojans.com/sports/womens-lacrosse
+2025,2,II,GLVC,594090,Missouri Western,WLA,9013,https://mwgriffons.com/sports/womens-lacrosse
+2025,2,II,GLVC,594092,Maryville (MO),WLA,395,https://maryvillesaints.com/sports/womens-lacrosse
+2025,2,II,G-MAC,594093,Ashland,WLA,35,https://goeagles.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594095,Southern Wesleyan,WLA,30192,https://swuathletics.com/sports/womens-lacrosse
+2025,2,II,Sunshine State,594097,Embry-Riddle (FL),WLA,9680,https://eruathletics.com/sports/womens-lacrosse
+2025,2,II,Sunshine State,594098,Palm Beach Atl.,WLA,30045,https://pbusailfish.com/sports/womens-lacrosse
+2025,2,II,SAC,594100,Mars Hill,WLA,1199,https://mhulions.com/sports/womens-lacrosse
+2025,2,II,NE10,594101,Adelphi,WLA,3,https://aupanthers.com/sports/womens-lacrosse
+2025,2,II,Gulf South,594103,Alabama Huntsville,WLA,10,https://uahchargers.com/sports/womens-lacrosse
+2025,2,II,NE10,594104,American Int'l,WLA,22,https://aicyellowjackets.com/sports/womens-lacrosse
+2025,2,II,NE10,594106,Assumption,WLA,36,https://assumptionathletics.com/sports/womens-lacrosse
+2025,2,II,NE10,594108,Bentley,WLA,56,https://bentleyfalcons.com/sports/womens-lacrosse
+2025,2,II,PSAC,594110,Bloomsburg,WLA,65,https://buhuskies.com/sports/womens-lacrosse
+2025,2,II,CACC,594112,Bridgeport,WLA,74,https://bridgeportathletics.com/sports/womens-lacrosse
+2025,2,II,MEC,594113,Davis & Elkins,WLA,174,https://decsports.com/sports/womens-lacrosse
+2025,2,II,ECC,594115,Dist. Columbia,WLA,186,https://dufirehawks.com/sports/womens-lacrosse
+2025,2,II,PSAC,594116,East Stroudsburg,WLA,197,https://esuwarriors.com/sports/womens-lacrosse
+2025,2,II,PSAC,594119,Edinboro,WLA,209,https://edinborofightingscots.com/sports/womens-lacrosse
+2025,2,II,Sunshine State,594120,Florida Tech,WLA,230,https://fitathletics.com/sports/womens-lacrosse
+2025,2,II,Sunshine State,594122,Fla. Southern,WLA,233,https://flsouthern.com/sports/womens-lacrosse
+2025,2,II,NE10,594124,Franklin Pierce,WLA,241,https://athletics.franklinpierce.edu/sports/womens-lacrosse
+2025,2,II,PSAC,594126,Gannon,WLA,246,https://gannongoldenknights.com/sports/womens-lacrosse
+2025,2,II,PSAC,594128,Indiana (PA),WLA,307,https://iupathletics.com/sports/womens-lacrosse
+2025,2,II,PSAC,594129,Kutztown,WLA,339,https://kutztowngoldenbears.com/sports/womens-lacrosse
+2025,2,II,PSAC,594131,Lock Haven,WLA,360,https://lhubaldeagles.com/sports/womens-lacrosse
+2025,2,II,ECC,594133,Mercy,WLA,407,https://mercyathletics.com/sports/womens-lacrosse
+2025,2,II,PSAC,594137,Millersville,WLA,423,https://millersvilleathletics.com/sports/womens-lacrosse
+2025,2,II,ECC,594139,Molloy,WLA,437,https://gomolloy.com/sports/womens-lacrosse
+2025,2,II,NE10,594140,Southern N.H.,WLA,468,https://snhupenmen.com/sports/womens-lacrosse
+2025,2,II,NE10,594142,New Haven,WLA,470,https://newhavenchargers.com/sports/womens-lacrosse
+2025,2,II,GLIAC,594144,Northern Mich.,WLA,506,https://nmuwildcats.com/sports/womens-lacrosse
+2025,2,II,CACC,594146,Jefferson,WLA,543,https://philaujefferson.com/sports/womens-lacrosse
+2025,2,II,Sunshine State,594148,Rollins,WLA,584,https://rollinssports.com/sports/womens-lacrosse
+2025,2,II,NE10,594150,St. Anselm,WLA,593,https://anselmhawks.com/sports/womens-lacrosse
+2025,2,II,Sunshine State,594152,Saint Leo,WLA,608,https://saintleoathletics.com/sports/womens-lacrosse
+2025,2,II,NE10,594154,Saint Michael's,WLA,613,https://purpleknights.com/sports/womens-lacrosse
+2025,2,II,PSAC,594156,Shippensburg,WLA,638,https://shipraiders.com/sports/womens-lacrosse
+2025,2,II,PSAC,594158,Slippery Rock,WLA,643,https://theslipperyrock.com/sports/womens-lacrosse
+2025,2,II,NE10,594160,Southern Conn. St.,WLA,658,https://southernctowls.com/sports/womens-lacrosse
+2025,2,II,CACC,594162,Caldwell,WLA,995,https://cougars.caldwell.edu/sports/womens-lacrosse
+2025,2,II,SAC,594164,Catawba,WLA,1001,https://catawbaindians.com/sports/womens-lacrosse
+2025,2,II,MEC,594166,Charleston (WV),WLA,1013,https://ucgoldeneagles.com/sports/womens-lacrosse
+2025,2,II,SAC,594167,Coker,WLA,1023,https://gocobras.com/sports/womens-lacrosse
+2025,2,II,G-MAC,594169,Findlay,WLA,1079,https://findlayoilers.com/sports/womens-lacrosse
+2025,2,II,RMAC,594171,Fort Lewis,WLA,1083,https://fortlewisathletics.com/sports/womens-lacrosse
+2025,2,II,CACC,594173,Holy Family,WLA,1126,https://holyfamilyathletics.com/sports/womens-lacrosse
+2025,2,II,SAC,594175,Lenoir-Rhyne,WLA,1170,https://lrbears.com/sports/womens-lacrosse
+2025,2,II,SAC,594177,Lincoln Memorial,WLA,1176,https://lmurailsplitters.com/sports/womens-lacrosse
+2025,2,II,Gulf South,594179,Montevallo,WLA,1238,https://montevallofalcons.com/sports/womens-lacrosse
+2025,2,II,SAC,594181,Newberry,WLA,1257,https://newberrywolves.com/sports/womens-lacrosse
+2025,2,II,CACC,594182,Post,WLA,1318,https://posteagles.com/sports/womens-lacrosse
+2025,2,II,GLVC,594184,Rockhurst,WLA,1328,https://rockhursthawks.com/sports/womens-lacrosse
+2025,2,II,ECC,594186,St. Thomas Aquinas,WLA,1348,https://staspartans.com/sports/womens-lacrosse
+2025,2,II,G-MAC,594188,Tiffin,WLA,1403,https://gotiffin.com/sports/womens-lacrosse
+2025,2,II,CACC,594189,Wilmington (DE),WLA,1460,https://wilmingtonwildcats.com/sports/womens-lacrosse
+2025,2,II,SAC,594191,Wingate,WLA,1462,https://wingatebulldogs.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594193,Belmont Abbey,WLA,2683,https://belmontabbeycrusaders.com/sports/womens-lacrosse
+2025,2,II,RMAC,594195,CSU Pueblo,WLA,2720,https://gothunderwolves.com/sports/womens-lacrosse
+2025,2,II,G-MAC,594197,Lake Erie,WLA,2746,https://lakeeriestorm.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594198,Chowan,WLA,8875,https://chowanathletics.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594200,Converse,WLA,8935,https://conversevalkyries.com/sports/womens-lacrosse
+2025,2,II,CACC,594202,Georgian Court,WLA,9004,https://gculions.com/sports/womens-lacrosse
+2025,2,II,GLIAC,594203,Concordia-St. Paul,WLA,9081,https://cspathletics.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594205,North Greenville,WLA,9223,https://ngcathletics.com/sports/womens-lacrosse
+2025,2,II,MEC,594206,West Va. Wesleyan,WLA,9630,https://wvwcbobcats.com/sports/womens-lacrosse
+2025,2,II,RMAC,594208,UC-Colo. Springs,WLA,9754,https://gomountainlions.com/sports/womens-lacrosse
+2025,2,II,PSAC,594210,Shepherd,WLA,10870,https://shepherdrams.com/sports/womens-lacrosse
+2025,2,II,RMAC,594212,Colorado Mesa,WLA,11416,https://gomavericks.com/sports/womens-lacrosse
+2025,2,II,SAC,594213,Tusculum,WLA,12830,https://tusculumpioneers.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594215,Lees-McRae,WLA,13302,https://leesmcraeathletics.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594217,Barton,WLA,15646,https://bartonbulldogs.com/sports/womens-lacrosse
+2025,2,II,CACC,594219,Chestnut Hill,WLA,21323,https://chcgriffins.com/sports/womens-lacrosse
+2025,2,II,CACC,594221,Felician,WLA,23157,https://feliciangoldenfalcons.com/sports/womens-lacrosse
+2025,2,II,Gulf South,594223,Lee,WLA,30013,https://leeflames.com/sports/womens-lacrosse
+2025,2,II,PSAC,594225,Seton Hill,WLA,30063,https://shugriffins.com/sports/womens-lacrosse
+2025,2,II,GLVC,594229,McKendree,WLA,30138,https://mckbearcats.com/sports/womens-lacrosse
+2025,2,II,G-MAC,594230,Ursuline,WLA,30140,https://ursulineathletics.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594232,Shorter,WLA,30151,https://shortersports.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594234,Young Harris,WLA,30154,https://yhcmountainlions.com/sports/womens-lacrosse
+2025,2,II,SAC,594236,UVA Wise,WLA,30181,https://uvawisecavaliers.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594238,Emmanuel (GA),WLA,30193,https://emmanuellions.com/sports/womens-lacrosse
+2025,2,II,RMAC,594240,Westminster (UT),WLA,30209,https://westminstergriffins.com/sports/womens-lacrosse
+2025,2,II,GLIAC,594242,Davenport,WLA,30221,https://davenportathletics.com/sports/womens-lacrosse
+2025,2,II,GLVC,594243,Lewis,WLA,354,https://lewisflyers.com/sports/womens-lacrosse
+2025,2,II,GLVC,594246,Quincy,WLA,561,https://quincyhawks.com/sports/womens-lacrosse
+2025,2,II,Sunshine State,594248,Lynn,WLA,20794,https://lynnfightingknights.com/sports/womens-lacrosse
+2025,2,II,Gulf South,594251,Lander,WLA,1167,https://landerbearcats.com/sports/womens-lacrosse
+2025,2,II,ECC,594252,D'Youville,WLA,1059,https://dysaints.com/sports/womens-lacrosse
+2025,2,II,ECC,594254,Daemen,WLA,30174,https://daemenwildcats.com/sports/womens-lacrosse
+2025,2,II,G-MAC,594256,Malone,WLA,30137,https://malonepioneers.com/sports/womens-lacrosse
+2025,2,II,G-MAC,594257,Thomas More,WLA,1402,https://thomasmoresaints.com/sports/womens-lacrosse
+2025,2,II,GLVC,594259,William Jewell,WLA,30120,https://williamjewellcardinals.com/sports/womens-lacrosse
+2025,2,II,GLIAC,594261,Grand Valley St.,WLA,262,https://gvsulakers.com/sports/womens-lacrosse
+2025,2,II,GLVC,594264,UIndy,WLA,309,https://uindygreyhounds.com/sports/womens-lacrosse
+2025,2,II,NE10,594265,Pace,WLA,533,https://pacesetters.com/sports/womens-lacrosse
+2025,2,II,RMAC,594267,Regis (CO),WLA,568,https://regisrangers.com/sports/womens-lacrosse
+2025,2,II,Sunshine State,594270,Tampa,WLA,689,https://gotampa.com/sports/womens-lacrosse
+2025,2,II,PSAC,594272,West Chester,WLA,765,https://wcugoldenrams.com/sports/womens-lacrosse
+2025,2,II,SAC,594274,Limestone,WLA,1174,https://limestonesaints.com/sports/womens-lacrosse
+2025,2,II,Conference Carolinas,594276,Mount Olive,WLA,1245,https://mtathletics.com/sports/womens-lacrosse
+2025,2,II,CACC,594278,Dominican (NY),WLA,8956,https://dominicanchargers.com/sports/womens-lacrosse
+2025,2,II,G-MAC,594280,Walsh,WLA,30141,https://walshcavaliers.com/sports/womens-lacrosse
+2025,2,II,ECC,594282,Roberts Wesleyan,WLA,30150,https://robertswesleyanathletics.com/sports/womens-lacrosse
+2025,2,II,MEC,594283,Frostburg St.,WLA,243,https://frostburgathletics.com/sports/womens-lacrosse
+2025,2,II,Gulf South,594285,Flagler,WLA,30092,https://flaglersaints.com/sports/womens-lacrosse
+2025,2,II,GLIAC,594852,Saginaw Valley,WLA,591,https://svsuathletics.com/sports/womens-lacrosse
+2025,2,II,MEC,594853,Wheeling,WLA,12799,https://wheelingathletics.com/sports/womens-lacrosse
+2025,2,II,SAC,600931,Emory & Henry,WLA,216,https://ehwasps.com/sports/womens-lacrosse
+2025,2,II,MEC,601076,Dominican (CA),WLA,30118,https://dominicanguinpenguins.com/sports/womens-lacrosse
+2025,2,II,G-MAC,601145,Northwood,WLA,510,https://northwoodtimberwolves.com/sports/womens-lacrosse
+2025,2,II,DII Independent,601219,Virginia St.,WLA,743,https://vstrojans.com/sports/womens-lacrosse
