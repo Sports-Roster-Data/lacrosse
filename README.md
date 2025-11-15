@@ -1,14 +1,16 @@
 # Women's Lacrosse Roster Scraper
 
-NCAA Women's Lacrosse Division I roster scraper for the 2025 season.
+NCAA Women's Lacrosse roster scraper for Division I and Division II teams for the 2025 season.
 
 ## Overview
 
-This scraper collects roster data from NCAA Division I women's lacrosse team websites. It's based on the women's soccer scraper architecture and adapted for lacrosse-specific data fields and positions.
+This scraper collects roster data from NCAA Division I and Division II women's lacrosse team websites. It's based on the women's soccer scraper architecture and adapted for lacrosse-specific data fields and positions.
 
 ## Features
 
-- Scrapes roster data from 131+ Division I women's lacrosse teams
+- Scrapes roster data from 240+ women's lacrosse teams
+  - 131 Division I teams
+  - 112 Division II teams
 - Extracts player information including:
   - Name
   - Jersey number
@@ -37,6 +39,22 @@ pip install beautifulsoup4 requests tldextract
 python src/wlacrosse_roster_scraper.py --season 2025 --division I
 ```
 
+### Scrape all Division II teams:
+```bash
+python src/wlacrosse_roster_scraper.py --season 2025 --division II \
+  --teams-csv teams/2025_II_teams_with_urls.csv
+```
+
+### Scrape both Division I and II teams:
+```bash
+# Division I
+python src/wlacrosse_roster_scraper.py --season 2025 --division I
+
+# Division II
+python src/wlacrosse_roster_scraper.py --season 2025 --division II \
+  --teams-csv teams/2025_II_teams_with_urls.csv
+```
+
 ### Scrape a specific team by ID:
 ```bash
 python src/wlacrosse_roster_scraper.py --team 593889 --season 2025
@@ -57,19 +75,34 @@ The scraper recognizes and normalizes the following lacrosse positions:
 
 ## Data Structure
 
-Teams are loaded from `teams/2025_I_teams_with_urls.csv` with the following columns:
+### Team CSV Files
+
+**Division I:** `teams/2025_I_teams_with_urls.csv` (131 teams)
+**Division II:** `teams/2025_II_teams_with_urls.csv` (112 teams)
+
+CSV columns:
 - `team_id` - NCAA team ID
 - `school_name` - School name
 - `url` - Team roster base URL
 - `ncaa_division_formatted` - Division (I, II, or III)
+- `team_conference_name` - Conference name
+- `season` - Season year
 
 ## Output
 
-Results are saved to `data/raw/`:
+Results are saved to `data/raw/` organized by division:
+
+**Division I:**
 - `json/rosters_wlax_2025_I.json` - JSON format
 - `csv/rosters_wlax_2025_I.csv` - CSV format
 - `csv/rosters_wlax_2025_I_zero_players.csv` - Teams with zero players found
 - `csv/rosters_wlax_2025_I_failed.csv` - Teams that failed to scrape
+
+**Division II:**
+- `json/rosters_wlax_2025_II.json` - JSON format
+- `csv/rosters_wlax_2025_II.csv` - CSV format
+- `csv/rosters_wlax_2025_II_zero_players.csv` - Teams with zero players found
+- `csv/rosters_wlax_2025_II_failed.csv` - Teams that failed to scrape
 
 ## Architecture
 
