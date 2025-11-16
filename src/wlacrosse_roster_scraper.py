@@ -399,6 +399,58 @@ class URLBuilder:
             # Example: https://ucfknights.com/sports/womens-lacrosse/roster/season/2025?view=table
             return f"{base_url}/roster/season/{season}?view=table"
 
+        elif url_format == 'asu_season_table':
+            # Arizona State uses /roster/season/YYYY?view=table with next year
+            # For 2025-26 season, use 2026
+            # Example: https://thesundevils.com/sports/lacrosse/roster/season/2026?view=table
+            try:
+                year = int(season)
+                next_year = year + 1
+                return f"{base_url}/roster/season/{next_year}?view=table"
+            except ValueError:
+                # If season is already in YYYY-YY format, extract first year and add 1
+                if '-' in season:
+                    year = int(season.split('-')[0])
+                    next_year = year + 1
+                    return f"{base_url}/roster/season/{next_year}?view=table"
+                else:
+                    logger.warning(f"Could not parse season '{season}' for ASU URL format")
+                    return f"{base_url}/roster/season/{season}?view=table"
+
+        elif url_format == 'cincinnati_season_table':
+            # Cincinnati uses /roster/season/YYYY-YY?view=table format
+            # Example: https://gobearcats.com/sports/womens-lacrosse/roster/season/2025-26?view=table
+            try:
+                year = int(season)
+                next_year = str(year + 1)[-2:]  # Get last 2 digits
+                season_range = f"{year}-{next_year}"
+                return f"{base_url}/roster/season/{season_range}?view=table"
+            except ValueError:
+                # If season is already a range, use as-is
+                if '-' in season:
+                    return f"{base_url}/roster/season/{season}?view=table"
+                else:
+                    logger.warning(f"Could not parse season '{season}' for Cincinnati URL format")
+                    return f"{base_url}/roster/season/{season}?view=table"
+
+        elif url_format == 'gmu_next_year':
+            # George Mason uses /roster/YYYY with next year
+            # For 2025-26 season, use 2026
+            # Example: https://gomason.com/sports/womens-lacrosse/roster/2026
+            try:
+                year = int(season)
+                next_year = year + 1
+                return f"{base_url}/roster/{next_year}"
+            except ValueError:
+                # If season is already in YYYY-YY format, extract first year and add 1
+                if '-' in season:
+                    year = int(season.split('-')[0])
+                    next_year = year + 1
+                    return f"{base_url}/roster/{next_year}"
+                else:
+                    logger.warning(f"Could not parse season '{season}' for GMU URL format")
+                    return f"{base_url}/roster/{season}"
+
         elif url_format == 'virginia_season':
             # Virginia uses /roster/season/{season-range}/
             # Example: https://virginiasports.com/sports/wlax/roster/season/2025-26/
@@ -499,20 +551,29 @@ class TeamConfig:
         14: {'url_format': 'default', 'requires_js': False, 'notes': 'Albany - Standard Sidearm'},
         72: {'url_format': 'default', 'requires_js': True, 'notes': 'Bradley - Vue.js rendered roster'},
         74: {'url_format': 'wlax_season_range', 'requires_js': False, 'notes': 'Bridgeport - /sports/wlax/YYYY-YY/roster format with data-field attributes'},
+        593881: {'url_format': 'asu_season_table', 'requires_js': True, 'notes': 'Arizona State - /roster/season/YYYY?view=table format (uses next year, e.g., 2026 for 2025-26 season)'},
+        593893: {'url_format': 'wlax_season_range', 'requires_js': False, 'notes': 'Central Connecticut State - /sports/wlax/YYYY-YY/roster format'},
+        593895: {'url_format': 'cincinnati_season_table', 'requires_js': True, 'notes': 'Cincinnati - /roster/season/YYYY-YY?view=table format'},
         128: {'url_format': 'ucf_table', 'requires_js': True, 'notes': 'UCF - Custom URL + JS rendering'},
         147: {'url_format': 'clemson_roster', 'requires_js': False, 'notes': 'Clemson - Custom WordPress roster with person__item structure'},
         216: {'url_format': 'wlax_season_range', 'requires_js': False, 'notes': 'Emory & Henry - /sports/wlax/YYYY-YY/roster format'},
-        248: {'url_format': 'default', 'requires_js': True, 'notes': 'George Mason - Sidearm list-item + JS rendering'},
+        248: {'url_format': 'default', 'requires_js': True, 'notes': 'George Mason - Standard Sidearm /roster/YYYY format but requires JS (li.sidearm-roster-list-item elements are JS-rendered)'},
+        593916: {'url_format': 'default', 'requires_js': True, 'notes': 'George Mason - Standard Sidearm /roster/YYYY format but requires JS (li.sidearm-roster-list-item elements are JS-rendered)'},
         334: {'url_format': 'kentucky_season', 'requires_js': True, 'notes': 'Kentucky - WMT Digital /roster/season/YYYY/ format (use JS-rendered List view / table)'},
         513: {'url_format': 'virginia_season', 'requires_js': True, 'notes': 'Notre Dame - WMT Digital /roster/season/YYYY-YY/ format (JS-rendered List view)'},
         648: {'url_format': 'kentucky_season', 'requires_js': True, 'notes': 'South Carolina - WMT Digital /roster/season/YYYY/ (use JS-rendered List/table view)'},
         1023: {'url_format': 'wlax_season_range', 'requires_js': False, 'notes': 'Coker - /sports/wlax/YYYY-YY/roster format'},
         457: {'url_format': 'default', 'requires_js': False, 'notes': 'UNC - Standard Sidearm'},
-        523: {'url_format': 'ucf_table', 'requires_js': True, 'notes': 'Old Dominion - Custom URL + JS rendering'},
-        539: {'url_format': 'ucf_table', 'requires_js': True, 'notes': 'Penn State - Custom URL + JS rendering'},
+        523: {'url_format': 'cincinnati_season_table', 'requires_js': True, 'notes': 'Old Dominion - /roster/season/YYYY-YY?view=table format'},
+        593975: {'url_format': 'cincinnati_season_table', 'requires_js': True, 'notes': 'Old Dominion - /roster/season/YYYY-YY?view=table format'},
+        539: {'url_format': 'ucf_table', 'requires_js': True, 'notes': 'Penn State - /roster/season/YYYY?view=table format'},
+        593978: {'url_format': 'ucf_table', 'requires_js': True, 'notes': 'Penn State - /roster/season/YYYY?view=table format'},
+        593995: {'url_format': 'asu_season_table', 'requires_js': True, 'notes': 'San Diego State - /roster/season/YYYY?view=table format (uses next year, e.g., 2026 for 2025-26 season)'},
+        594019: {'url_format': 'cincinnati_season_table', 'requires_js': True, 'notes': 'Virginia Tech - /roster/season/YYYY-YY?view=table format'},
+        594082: {'url_format': 'asu_season_table', 'requires_js': True, 'notes': 'Stanford - /roster/season/YYYY?view=table format (uses next year, e.g., 2026 for 2025-26 season)'},
         630: {'url_format': 'ucf_table', 'requires_js': True, 'notes': 'San Jose State - Custom URL + JS rendering'},
-        674: {'url_format': 'ucf_table', 'requires_js': True, 'notes': 'Stanford - Custom URL + JS rendering'},
-        742: {'url_format': 'ucf_table', 'requires_js': True, 'notes': 'Va Tech - Custom URL + JS rendering'},
+        674: {'url_format': 'asu_season_table', 'requires_js': True, 'notes': 'Stanford - /roster/season/YYYY?view=table format (uses next year, e.g., 2026 for 2025-26 season)'},
+        742: {'url_format': 'cincinnati_season_table', 'requires_js': True, 'notes': 'Virginia Tech - /roster/season/YYYY-YY?view=table format'},
         746: {'url_format': 'virginia_season', 'requires_js': False, 'notes': 'Virginia - WMT Digital /roster/season/YYYY-YY/ format'},
         813: {'url_format': 'default', 'requires_js': False, 'notes': 'Yale - Standard Sidearm'},
         1000: {'url_format': 'wlax_season_range', 'requires_js': False, 'notes': 'Carson-Newman - /sports/wlax/YYYY-YY/roster format'},
@@ -3341,8 +3402,8 @@ Examples:
 
     parser.add_argument(
         '--teams-csv',
-        default='teams/2025_I_teams_with_urls.csv',
-        help='Path to teams.csv (default: teams/2025_I_teams_with_urls.csv)'
+        default=None,
+        help='Path to teams.csv (default: auto-determined from season and division)'
     )
 
     parser.add_argument(
@@ -3353,6 +3414,22 @@ Examples:
 
     args = parser.parse_args()
 
+    # Determine teams CSV path if not explicitly provided
+    if args.teams_csv is None:
+        if args.division:
+            args.teams_csv = f'teams/{args.season}_{args.division}_teams_with_urls.csv'
+        else:
+            args.teams_csv = f'teams/{args.season}_I_teams_with_urls.csv'
+        
+        # Check if the file exists, fallback to version without _with_urls suffix
+        if not Path(args.teams_csv).exists():
+            fallback_path = args.teams_csv.replace('_with_urls', '')
+            if Path(fallback_path).exists():
+                args.teams_csv = fallback_path
+                logger.info(f"Using teams file: {args.teams_csv}")
+            else:
+                logger.warning(f"Teams file not found: {args.teams_csv}, will try anyway")
+    
     # Initialize manager
     manager = RosterManager(season=args.season, output_dir=args.output_dir)
 
