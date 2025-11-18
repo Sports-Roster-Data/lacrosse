@@ -1,0 +1,392 @@
+season,ncaa_division,ncaa_division_formatted,team_conference_name,team_id,school_name,sport_id,school_id,url
+2025,1,I,NEC,593904,LIU,MLA,361,https://www.liuathletics.com/sports/mens-lacrosse
+2025,1,I,Atlantic 10,593908,St. Bonaventure,MLA,596,https://gobonnies.com/sports/mens-lacrosse
+2025,1,I,ASUN,593910,Bellarmine,MLA,52,https://bellarmineknights.com/sports/mens-lacrosse
+2025,1,I,America East,593912,Binghamton,MLA,62,https://binghamtonbearcats.com/sports/mens-lacrosse
+2025,1,I,Patriot,593915,Boston U.,MLA,68,https://goterriers.com/sports/mens-lacrosse
+2025,1,I,Ivy League,593918,Brown,MLA,80,https://brownbears.com/sports/mens-lacrosse
+2025,1,I,America East,593920,Bryant,MLA,81,https://bryantbulldogs.com/sports/mens-lacrosse
+2025,1,I,Patriot,593922,Bucknell,MLA,83,https://bucknellbison.com/sports/mens-lacrosse
+2025,1,I,MAAC,593925,Canisius,MLA,116,https://gogriffs.com/sports/mens-lacrosse
+2025,1,I,NEC,593927,Cleveland St.,MLA,148,https://clevelandstatevikings.com/sports/mens-lacrosse
+2025,1,I,Patriot,593929,Colgate,MLA,153,https://colgateathletics.com/sports/mens-lacrosse
+2025,1,I,Ivy League,593931,Cornell,MLA,167,https://cornellbigred.com/sports/mens-lacrosse
+2025,1,I,Ivy League,593933,Dartmouth,MLA,172,https://dartmouthsports.com/sports/mens-lacrosse
+2025,1,I,CAA,593934,Delaware,MLA,180,https://bluehens.com/sports/mens-lacrosse
+2025,1,I,Big East,593936,Denver,MLA,183,https://denverpioneers.com/sports/mens-lacrosse
+2025,1,I,NEC,593938,Detroit Mercy,MLA,184,https://detroittitans.com/sports/mens-lacrosse
+2025,1,I,CAA,593940,Drexel,MLA,191,https://drexeldragons.com/sports/mens-lacrosse
+2025,1,I,ACC,593943,Duke,MLA,193,https://goduke.com/sports/mens-lacrosse
+2025,1,I,CAA,593946,Fairfield,MLA,220,https://fairfieldstags.com/sports/mens-lacrosse
+2025,1,I,CAA,593948,Hampton,MLA,270,https://hamptonpirates.com/sports/mens-lacrosse
+2025,1,I,Ivy League,593949,Harvard,MLA,275,https://gocrimson.com/sports/mens-lacrosse
+2025,1,I,Atlantic 10,593952,Hobart,MLA,282,https://hwsathletics.com/sports/mens-lacrosse
+2025,1,I,CAA,593954,Hofstra,MLA,283,https://gohofstra.com/sports/mens-lacrosse
+2025,1,I,Patriot,593956,Holy Cross,MLA,285,https://goholycross.com/sports/mens-lacrosse
+2025,1,I,ASUN,593958,Jacksonville,MLA,316,https://judolphins.com/sports/mens-lacrosse
+2025,1,I,Big Ten,593960,Johns Hopkins,MLA,322,https://hopkinssports.com/sports/mens-lacrosse
+2025,1,I,Patriot,593962,Lafayette,MLA,342,https://goleopards.com/sports/mens-lacrosse
+2025,1,I,America East,593964,UMass Lowell,MLA,368,https://goriverhawks.com/sports/mens-lacrosse
+2025,1,I,Patriot,593966,Loyola Maryland,MLA,369,https://loyolagreyhounds.com/sports/mens-lacrosse
+2025,1,I,MAAC,593968,Manhattan,MLA,381,https://gojaspers.com/sports/mens-lacrosse
+2025,1,I,MAAC,593970,Marist,MLA,386,https://goredfoxes.com/sports/mens-lacrosse
+2025,1,I,Big East,593972,Marquette,MLA,387,https://gomarquette.com/sports/mens-lacrosse
+2025,1,I,America East,593974,UMBC,MLA,391,https://umbcretrievers.com/sports/mens-lacrosse
+2025,1,I,Big Ten,593977,Maryland,MLA,392,https://umterps.com/sports/mens-lacrosse
+2025,1,I,Atlantic 10,593979,Massachusetts,MLA,400,https://umassathletics.com/sports/mens-lacrosse
+2025,1,I,ASUN,593982,Mercer,MLA,406,https://mercerbears.com/sports/mens-lacrosse
+2025,1,I,CAA,593985,Monmouth,MLA,439,https://monmouthhawks.com/sports/mens-lacrosse
+2025,1,I,MAAC,593988,Mount St. Mary's,MLA,450,https://mountathletics.com/sports/mens-lacrosse
+2025,1,I,ACC,593990,North Carolina,MLA,457,https://goheels.com/sports/mens-lacrosse
+2025,1,I,America East,593992,NJIT,MLA,471,https://njithighlanders.com/sports/mens-lacrosse
+2025,1,I,Big Ten,593994,Ohio St.,MLA,518,https://ohiostatebuckeyes.com/sports/mens-lacrosse
+2025,1,I,Big Ten,593997,Penn St.,MLA,539,https://gopsusports.com/sports/mens-lacrosse
+2025,1,I,Ivy League,593999,Penn,MLA,540,https://pennathletics.com/sports/mens-lacrosse
+2025,1,I,Big East,594001,Providence,MLA,556,https://friars.com/sports/mens-lacrosse
+2025,1,I,MAAC,594003,Quinnipiac,MLA,562,https://gobobcats.com/sports/mens-lacrosse
+2025,1,I,Atlantic 10,594005,Richmond,MLA,575,https://richmondspiders.com/sports/mens-lacrosse
+2025,1,I,NEC,594007,Robert Morris,MLA,579,https://rmucolonials.com/sports/mens-lacrosse
+2025,1,I,Big Ten,594009,Rutgers,MLA,587,https://scarletknights.com/sports/mens-lacrosse
+2025,1,I,Big East,594011,St. John's (NY),MLA,603,https://redstormsports.com/sports/mens-lacrosse
+2025,1,I,MAAC,594012,Siena,MLA,639,https://sienasaints.com/sports/mens-lacrosse
+2025,1,I,CAA,594015,Stony Brook,MLA,683,https://stonybrookathletics.com/sports/mens-lacrosse
+2025,1,I,ACC,594017,Syracuse,MLA,688,https://cuse.com/sports/mens-lacrosse
+2025,1,I,ASUN,594020,Air Force,MLA,721,https://goairforcefalcons.com/sports/mens-lacrosse
+2025,1,I,Patriot,594022,Army West Point,MLA,725,https://goarmywestpoint.com/sports/mens-lacrosse
+2025,1,I,Patriot,594025,Navy,MLA,726,https://navysports.com/sports/mens-lacrosse
+2025,1,I,America East,594027,Vermont,MLA,738,https://uvmathletics.com/sports/mens-lacrosse
+2025,1,I,Big East,594029,Villanova,MLA,739,https://villanova.com/sports/mens-lacrosse
+2025,1,I,NEC,594032,VMI,MLA,741,https://vmikeydets.com/sports/mens-lacrosse
+2025,1,I,ACC,594033,Virginia,MLA,746,https://virginiasports.com/sports/mlax/
+2025,1,I,NEC,594036,Wagner,MLA,748,https://wagnerathletics.com/sports/mens-lacrosse
+2025,1,I,Ivy League,594037,Yale,MLA,813,https://yalebulldogs.com/sports/mens-lacrosse
+2025,1,I,Atlantic 10,594040,High Point,MLA,19651,https://highpointpanthers.com/sports/mens-lacrosse
+2025,1,I,MAAC,594042,Merrimack,MLA,410,https://merrimackathletics.com/sports/mens-lacrosse
+2025,1,I,ASUN,594044,Queens (NC),MLA,11504,https://queensathletics.com/sports/mens-lacrosse
+2025,1,I,NEC,594048,Le Moyne,MLA,349,https://lemoynedolphins.com/sports/mens-lacrosse
+2025,1,I,ASUN,594051,Utah,MLA,732,https://utahutes.com/sports/mens-lacrosse
+2025,1,I,America East,594053,UAlbany,MLA,14,https://ualbanysports.com/sports/mens-lacrosse
+2025,1,I,Big East,594056,Georgetown,MLA,251,https://guhoyas.com/sports/mens-lacrosse
+2025,1,I,Patriot,594058,Lehigh,MLA,352,https://lehighsports.com/sports/mens-lacrosse
+2025,1,I,Big Ten,594060,Michigan,MLA,418,https://mgoblue.com/sports/mens-lacrosse
+2025,1,I,ACC,594063,Notre Dame,MLA,513,https://fightingirish.com/sports/mlax/
+2025,1,I,Ivy League,594066,Princeton,MLA,554,https://goprincetontigers.com/sports/mens-lacrosse
+2025,1,I,MAAC,594068,Sacred Heart,MLA,590,https://sacredheartpioneers.com/sports/mens-lacrosse
+2025,1,I,Atlantic 10,594069,Saint Joseph's,MLA,606,https://sjuhawks.com/sports/mens-lacrosse
+2025,1,I,CAA,594071,Towson,MLA,711,https://towsontigers.com/sports/mens-lacrosse
+2025,1,I,NEC,594235,Mercyhurst,MLA,408,https://hurstathletics.com/sports/mens-lacrosse
+2025,1,I,MAAC,594940,Iona,MLA,310,https://ionagaels.com/sports/mens-lacrosse
+2025,2,II,CACC,594073,Holy Family,MLA,1126,https://holyfamilyathletics.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594076,Tiffin,MLA,1403,https://gotiffin.com/sports/mens-lacrosse
+2025,2,II,NE10,594078,Bentley,MLA,56,https://bentleyfalcons.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594081,Davis & Elkins,MLA,174,https://decsports.com/sports/mens-lacrosse
+2025,2,II,ECC,594083,Dist. Columbia,MLA,186,https://dufirehawks.com/sports/mens-lacrosse
+2025,2,II,Sunshine State,594085,Florida Tech,MLA,230,https://fitathletics.com/sports/mens-lacrosse
+2025,2,II,Sunshine State,594087,Fla. Southern,MLA,233,https://flsouthern.com/sports/mens-lacrosse
+2025,2,II,NE10,594089,Franklin Pierce,MLA,241,https://athletics.franklinpierce.edu/sports/mens-lacrosse
+2025,2,II,GLVC,594091,UIndy,MLA,309,https://uindygreyhounds.com/sports/mens-lacrosse
+2025,2,II,GLVC,594094,Maryville (MO),MLA,395,https://maryvillesaints.com/sports/mens-lacrosse
+2025,2,II,ECC,594096,Molloy,MLA,437,https://gomolloy.com/sports/mens-lacrosse
+2025,2,II,NE10,594099,Southern N.H.,MLA,468,https://snhupenmen.com/sports/mens-lacrosse
+2025,2,II,NE10,594102,Pace,MLA,533,https://pacesetters.com/sports/mens-lacrosse
+2025,2,II,Sunshine State,594105,Rollins,MLA,584,https://rollinssports.com/sports/mens-lacrosse
+2025,2,II,SAC,594107,Anderson (SC),MLA,13028,https://autrojans.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594109,Wheeling,MLA,12799,https://wheelingathletics.com/sports/mens-lacrosse
+2025,2,II,CACC,594111,Caldwell,MLA,995,https://cougars.caldwell.edu/sports/mens-lacrosse
+2025,2,II,G-MAC,594114,Davenport,MLA,30221,https://davenportathletics.com/sports/mens-lacrosse
+2025,2,II,SAC,594117,Catawba,MLA,1001,https://catawbaindians.com/sports/mens-lacrosse
+2025,2,II,SAC,594118,Coker,MLA,1023,https://gocobras.com/sports/mens-lacrosse
+2025,2,II,SAC,594121,Limestone,MLA,1174,https://limestonesaints.com/sports/mens-lacrosse
+2025,2,II,SAC,594123,Lincoln Memorial,MLA,1176,https://lmurailsplitters.com/sports/mens-lacrosse
+2025,2,II,SAC,594125,Mars Hill,MLA,1199,https://mhulions.com/sports/mens-lacrosse
+2025,2,II,CACC,594127,Post,MLA,1318,https://posteagles.com/sports/mens-lacrosse
+2025,2,II,GLVC,594130,Rockhurst,MLA,1328,https://rockhursthawks.com/sports/mens-lacrosse
+2025,2,II,ECC,594134,St. Thomas Aquinas,MLA,1348,https://staspartans.com/sports/mens-lacrosse
+2025,2,II,SAC,594136,Wingate,MLA,1462,https://wingatebulldogs.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594138,Belmont Abbey,MLA,2683,https://belmontabbeycrusaders.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594143,Lake Erie,MLA,2746,https://lakeeriestorm.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594145,Chowan,MLA,8875,https://chowanathletics.com/sports/mens-lacrosse
+2025,2,II,CACC,594147,Dominican (NY),MLA,8956,https://dominicanchargers.com/sports/mens-lacrosse
+2025,2,II,CACC,594149,Georgian Court,MLA,9004,https://gculions.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594151,North Greenville,MLA,9223,https://ngcathletics.com/sports/mens-lacrosse
+2025,2,II,SAC,594153,Tusculum,MLA,12830,https://tusculumpioneers.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594155,Lees-McRae,MLA,13302,https://leesmcraeathletics.com/sports/mens-lacrosse
+2025,2,II,Sunshine State,594157,Lynn,MLA,20794,https://lynnfightingknights.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594159,Seton Hill,MLA,30063,https://shugriffins.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594161,Walsh,MLA,30141,https://walshcavaliers.com/sports/mens-lacrosse
+2025,2,II,ECC,594163,Roberts Wesleyan,MLA,30150,https://robertswesleyanathletics.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594165,Shorter,MLA,30151,https://shortersports.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594168,Young Harris,MLA,30154,https://yhcmountainlions.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594170,Emmanuel (GA),MLA,30193,https://emmanuellions.com/sports/mens-lacrosse
+2025,2,II,RMAC,594172,Westminster (UT),MLA,30209,https://westminstergriffins.com/sports/mens-lacrosse
+2025,2,II,Peach Belt,594174,Montevallo,MLA,1238,https://montevallofalcons.com/sports/mens-lacrosse
+2025,2,II,Sunshine State,594176,Palm Beach Atl.,MLA,30045,https://pbusailfish.com/sports/mens-lacrosse
+2025,2,II,Sunshine State,594178,Embry-Riddle (FL),MLA,9680,https://eruathletics.com/sports/mens-lacrosse
+2025,2,II,CACC,594180,Wilmington (DE),MLA,1460,https://wilmingtonwildcats.com/sports/mens-lacrosse
+2025,2,II,SAC,594183,Newberry,MLA,1257,https://newberrywolves.com/sports/mens-lacrosse
+2025,2,II,CACC,594185,Felician,MLA,23157,https://feliciangoldenfalcons.com/sports/mens-lacrosse
+2025,2,II,ECC,594187,Frostburg St.,MLA,243,https://frostburgathletics.com/sports/mens-lacrosse
+2025,2,II,Peach Belt,594190,Lander,MLA,1167,https://landerbearcats.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594192,Barton,MLA,15646,https://bartonbulldogs.com/sports/mens-lacrosse
+2025,2,II,Peach Belt,594194,Alabama Huntsville,MLA,10,https://uahchargers.com/sports/mens-lacrosse
+2025,2,II,NE10,594196,American Int'l,MLA,22,https://aicyellowjackets.com/sports/mens-lacrosse
+2025,2,II,NE10,594199,Assumption,MLA,36,https://assumptionathletics.com/sports/mens-lacrosse
+2025,2,II,NE10,594201,St. Anselm,MLA,593,https://anselmhawks.com/sports/mens-lacrosse
+2025,2,II,Sunshine State,594204,Saint Leo,MLA,608,https://saintleoathletics.com/sports/mens-lacrosse
+2025,2,II,NE10,594207,Saint Michael's,MLA,613,https://purpleknights.com/sports/mens-lacrosse
+2025,2,II,RMAC,594209,Adams St.,MLA,929,https://adamsstatesports.com/sports/mens-lacrosse
+2025,2,II,GLVC,594211,Quincy,MLA,561,https://quincyhawks.com/sports/mens-lacrosse
+2025,2,II,ECC,594214,D'Youville,MLA,1059,https://dysaints.com/sports/mens-lacrosse
+2025,2,II,Peach Belt,594216,Flagler,MLA,30092,https://flaglersaints.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594218,Malone,MLA,30137,https://malonepioneers.com/sports/mens-lacrosse
+2025,2,II,CACC,594220,Bridgeport,MLA,74,https://bridgeportathletics.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594222,Thomas More,MLA,1402,https://thomasmoresaints.com/sports/mens-lacrosse
+2025,2,II,RMAC,594224,CUI,MLA,30199,https://cuieagles.com/sports/mens-lacrosse
+2025,2,II,DII Independent,594226,Virginia St.,MLA,743,https://vstrojans.com/sports/mens-lacrosse
+2025,2,II,RMAC,594228,Dominican (CA),MLA,30118,https://dominicanguinpenguins.com/sports/mens-lacrosse
+2025,2,II,GLVC,594231,William Jewell,MLA,30120,https://williamjewellcardinals.com/sports/mens-lacrosse
+2025,2,II,ECC,594233,Mercy,MLA,407,https://mercyathletics.com/sports/mens-lacrosse
+2025,2,II,GLVC,594237,Lewis,MLA,354,https://lewisflyers.com/sports/mens-lacrosse
+2025,2,II,SAC,594239,Lenoir-Rhyne,MLA,1170,https://lrbears.com/sports/mens-lacrosse
+2025,2,II,Conference Carolinas,594241,Mount Olive,MLA,1245,https://mtathletics.com/sports/mens-lacrosse
+2025,2,II,RMAC,594244,Colorado Mesa,MLA,11416,https://gomavericks.com/sports/mens-lacrosse
+2025,2,II,CACC,594245,Chestnut Hill,MLA,21323,https://chcgriffins.com/sports/mens-lacrosse
+2025,2,II,NE10,594247,Adelphi,MLA,3,https://aupanthers.com/sports/mens-lacrosse
+2025,2,II,Sunshine State,594250,Tampa,MLA,689,https://gotampa.com/sports/mens-lacrosse
+2025,2,II,SAC,594942,Emory & Henry,MLA,216,https://ehwasps.com/sports/mens-lacrosse
+2025,2,II,G-MAC,594943,Northwood,MLA,510,https://northwoodtimberwolves.com/sports/mens-lacrosse
+2025,3,III,PAC,594253,Saint Vincent,MLA,30064,https://saintvincentbearcats.com/sports/mens-lacrosse
+2025,3,III,SUNYAC,594258,SUNY Morrisville,MLA,30067,https://sunymorrisvilleathletics.com/sports/mens-lacrosse
+2025,3,III,PAC,594260,Franciscan,MLA,30069,https://franciscanathletics.com/sports/mens-lacrosse
+2025,3,III,North Atlantic,594262,SUNY Cobleskill ,MLA,30083,https://cobleskillathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594263,Southern Va.,MLA,30164,https://southernvirginiaknights.com/sports/mens-lacrosse
+2025,3,III,SUNYAC,594266,SUNY Canton,MLA,30165,https://sunycantonathletics.com/sports/mens-lacrosse
+2025,3,III,United East,594268,Bryn Athyn,MLA,30188,https://brynathynathletics.com/sports/mens-lacrosse
+2025,3,III,Michigan Intercol. Ath. Assn.,594269,Adrian,MLA,4,https://adrianathletics.com/sports/mens-lacrosse
+2025,3,III,Michigan Intercol. Ath. Assn.,594271,Albion,MLA,15,https://albionathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Commonwealth,594273,Albright,MLA,16,https://albrightathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594275,Alfred,MLA,18,https://alfredathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Freedom,594277,DeSales,MLA,20,https://desalesathletics.com/sports/mens-lacrosse
+2025,3,III,Michigan Intercol. Ath. Assn.,594279,Alma,MLA,21,https://almaathletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594281,Amherst,MLA,24,https://amherstathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594284,Anna Maria,MLA,26,https://annamariaathletics.com/sports/mens-lacrosse
+2025,3,III,CCIW,594286,Augustana (IL),MLA,40,https://augustana(il)athletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594288,Baldwin Wallace,MLA,46,https://baldwinwallaceathletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594290,Bates,MLA,50,https://batesathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594292,Beloit,MLA,53,https://beloitathletics.com/sports/mens-lacrosse
+2025,3,III,PAC,594295,Bethany (WV),MLA,59,https://bethany(wv)athletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594297,Bowdoin,MLA,69,https://bowdoinathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594299,Bridgewater (VA),MLA,75,https://bridgewater(va)athletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594301,SUNY Brockport,MLA,78,https://sunybrockportathletics.com/sports/mens-lacrosse
+2025,3,III,Michigan Intercol. Ath. Assn.,594303,Calvin,MLA,114,https://calvinathletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594305,Capital,MLA,117,https://capitalathletics.com/sports/mens-lacrosse
+2025,3,III,CCIW,594307,Carroll (WI),MLA,120,https://carroll(wi)athletics.com/sports/mens-lacrosse
+2025,3,III,CCIW,594310,Carthage,MLA,121,https://carthageathletics.com/sports/mens-lacrosse
+2025,3,III,Little East,594313,VTSU Castleton,MLA,123,https://vtsucastletonathletics.com/sports/mens-lacrosse
+2025,3,III,Landmark,594315,Catholic,MLA,124,https://catholicathletics.com/sports/mens-lacrosse
+2025,3,III,CLC,594317,Chris. Newport,MLA,139,https://chrisnewportathletics.com/sports/mens-lacrosse
+2025,3,III,NEWMAC,594320,Clark (MA),MLA,145,https://clark(ma)athletics.com/sports/mens-lacrosse
+2025,3,III,Liberty League,594323,Clarkson,MLA,146,https://clarksonathletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594326,Colby,MLA,151,https://colbyathletics.com/sports/mens-lacrosse
+2025,3,III,DIII Independent,594328,Colorado Col.,MLA,154,https://coloradocollegetigers.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594332,Connecticut Col.,MLA,163,https://connecticutcolathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594335,Cornell College,MLA,166,https://cornellcollegeathletics.com/sports/mens-lacrosse
+2025,3,III,SUNYAC,594337,Cortland,MLA,168,https://cortlandathletics.com/sports/mens-lacrosse
+2025,3,III,CNE,594340,Curry,MLA,170,https://curryathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594342,DePauw,MLA,177,https://depauwathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Freedom,594344,Delaware Valley,MLA,179,https://delawarevalleyathletics.com/sports/mens-lacrosse
+2025,3,III,Landmark,594346,Drew,MLA,190,https://drewathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594348,Dubuque,MLA,192,https://dbqspartans.com/sports/mens-lacrosse
+2025,3,III,Little East,594350,Eastern Conn. St.,MLA,200,https://easternconnstathletics.com/sports/mens-lacrosse
+2025,3,III,Landmark,594352,Elizabethtown,MLA,211,https://elizabethtownathletics.com/sports/mens-lacrosse
+2025,3,III,CCIW,594354,Elmhurst,MLA,212,https://elmhurstathletics.com/sports/mens-lacrosse
+2025,3,III,NEWMAC,594357,Emerson,MLA,214,https://emersonathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594358,Emmanuel (MA),MLA,215,https://emmanuel(ma)athletics.com/sports/mens-lacrosse
+2025,3,III,MAC Freedom,594360,FDU-Florham,MLA,221,https://fduflorhamathletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594363,Franklin & Marshall,MLA,239,https://franklin&marshallathletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594366,Gettysburg,MLA,258,https://gettysburgathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594369,Greensboro,MLA,263,https://greensboroathletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594371,Hamilton,MLA,267,https://hamiltonathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594374,Hampden-Sydney,MLA,269,https://hsctigers.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594377,Hartwick,MLA,273,https://hartwickathletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594378,Haverford,MLA,276,https://haverfordathletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594381,Heidelberg,MLA,278,https://heidelbergathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594383,Hiram,MLA,281,https://hiramterriers.com/sports/mens-lacrosse
+2025,3,III,NACC,594385,Benedictine (IL),MLA,296,https://ben-eagles.com/sports/mens-lacrosse
+2025,3,III,Atlantic East,594387,Immaculata,MLA,303,https://immaculataathletics.com/sports/mens-lacrosse
+2025,3,III,Liberty League,594389,Ithaca,MLA,313,https://ithacaathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594392,Brevard,MLA,30094,https://brevardtornadoes.com/sports/mens-lacrosse
+2025,3,III,CLC,594396,Warren Wilson,MLA,30236,https://wwcowls.com/sports/mens-lacrosse
+2025,3,III,Landmark,594398,Juniata,MLA,325,https://juniataathletics.com/sports/mens-lacrosse
+2025,3,III,HCMLC,594400,Spalding,MLA,23260,https://spaldingeagles.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594404,St. Joseph's (ME),MLA,605,https://stjosephs(me)athletics.com/sports/mens-lacrosse
+2025,3,III,Liberty League,594406,St. Lawrence,MLA,607,https://stlawrenceathletics.com/sports/mens-lacrosse
+2025,3,III,Little East,594409,Salem St.,MLA,621,https://salemstathletics.com/sports/mens-lacrosse
+2025,3,III,NEWMAC,594411,Salve Regina,MLA,623,https://salvereginaathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594414,Shenandoah,MLA,637,https://shenandoahathletics.com/sports/mens-lacrosse
+2025,3,III,Liberty League,594417,Skidmore,MLA,642,https://skidmoreathletics.com/sports/mens-lacrosse
+2025,3,III,SAA,594418,Sewanee,MLA,652,https://sewaneeathletics.com/sports/mens-lacrosse
+2025,3,III,Little East,594420,Southern Me.,MLA,662,https://southernmeathletics.com/sports/mens-lacrosse
+2025,3,III,NEWMAC,594423,Springfield,MLA,673,https://springfieldathletics.com/sports/mens-lacrosse
+2025,3,III,CLC,594426,Stockton,MLA,681,https://stocktonathletics.com/sports/mens-lacrosse
+2025,3,III,Landmark,594428,Susquehanna,MLA,685,https://susquehannaathletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594431,Swarthmore,MLA,686,https://swarthmoreathletics.com/sports/mens-lacrosse
+2025,3,III,PAC,594434,Thiel,MLA,707,https://thielathletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594436,Trinity (CT),MLA,713,https://trinity(ct)athletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594439,Tufts,MLA,717,https://tuftsathletics.com/sports/mens-lacrosse
+2025,3,III,NEWMAC,594441,Coast Guard,MLA,722,https://coastguardathletics.com/sports/mens-lacrosse
+2025,3,III,Skyline,594443,Merchant Marine,MLA,724,https://merchantmarineathletics.com/sports/mens-lacrosse
+2025,3,III,Liberty League,594445,Union (NY),MLA,727,https://union(ny)athletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594448,Ursinus,MLA,730,https://ursinusathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594450,Utica,MLA,733,https://uticaathletics.com/sports/mens-lacrosse
+2025,3,III,PAC,594452,Chatham,MLA,10972,https://chathamathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594454,Marian (WI),MLA,1196,https://marian(wi)athletics.com/sports/mens-lacrosse
+2025,3,III,HCMLC,594457,Earlham,MLA,195,https://earlhamhuskers.com/sports/mens-lacrosse
+2025,3,III,ODAC,594459,Averett,MLA,44,https://averettathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594462,Dean,MLA,30219,https://deanathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594464,William Peace,MLA,17094,https://williampeaceathletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594466,Marietta,MLA,385,https://mariettaathletics.com/sports/mens-lacrosse
+2025,3,III,Liberty League,594468,Vassar,MLA,737,https://vassarathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594470,Va. Wesleyan,MLA,745,https://vawesleyanathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594472,Wabash,MLA,747,https://wabashlittlewgiants.com/sports/mens-lacrosse
+2025,3,III,PAC,594474,Wash. & Jeff.,MLA,751,https://wash&jeffathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594475,Wash. & Lee,MLA,752,https://wash&leeathletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594478,Washington Col.,MLA,753,https://washingtoncolathletics.com/sports/mens-lacrosse
+2025,3,III,CNE,594482,Wentworth,MLA,762,https://wentworthathletics.com/sports/mens-lacrosse
+2025,3,III,Little East,594484,WestConn,MLA,770,https://westconnathletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594486,McDaniel,MLA,773,https://mcdanielathletics.com/sports/mens-lacrosse
+2025,3,III,CNE,594488,Western New Eng.,MLA,775,https://westernnewengathletics.com/sports/mens-lacrosse
+2025,3,III,NEWMAC,594491,Wheaton (MA),MLA,779,https://wheaton(ma)athletics.com/sports/mens-lacrosse
+2025,3,III,MAC Commonwealth,594493,Widener,MLA,783,https://widenerathletics.com/sports/mens-lacrosse
+2025,3,III,Landmark,594495,Wilkes,MLA,784,https://wilkesathletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594498,Williams,MLA,789,https://williamsathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594500,Wittenberg,MLA,806,https://wittenbergathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594502,Wooster,MLA,807,https://woosterathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Commonwealth,594505,York (PA),MLA,815,https://york(pa)athletics.com/sports/mens-lacrosse
+2025,3,III,MAC Commonwealth,594507,Alvernia,MLA,938,https://alverniaathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Freedom,594510,Arcadia,MLA,966,https://arcadiaathletics.com/sports/mens-lacrosse
+2025,3,III,SAA,594512,Berry,MLA,973,https://berryathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594514,Concordia Wisconsin,MLA,1036,https://concordiawisconsinathletics.com/sports/mens-lacrosse
+2025,3,III,CNE,594516,Gordon,MLA,1099,https://gordonathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594518,Guilford,MLA,1112,https://guilfordathletics.com/sports/mens-lacrosse
+2025,3,III,HCMLC,594521,Hanover,MLA,1115,https://hanoverathletics.com/sports/mens-lacrosse
+2025,3,III,SAA,594523,Hendrix,MLA,1124,https://hendrixathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594526,Huntingdon,MLA,1130,https://huntingdonathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594528,LaGrange,MLA,1162,https://lagrangepanthers.com/sports/mens-lacrosse
+2025,3,III,DIII Independent,594530,Centenary (LA),MLA,125,https://gocentenary.com/sports/mens-lacrosse
+2025,3,III,NACC,594531,IIT,MLA,30172,https://iitscarletthawks.com/sports/mens-lacrosse
+2025,3,III,North Atlantic,594533,Husson,MLA,1133,https://hussonathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594535,Keuka,MLA,1159,https://keukaathletics.com/sports/mens-lacrosse
+2025,3,III,AMCC,594537,La Roche,MLA,1163,https://larocheathletics.com/sports/mens-lacrosse
+2025,3,III,Atlantic East,594539,Neumann,MLA,1254,https://neumannathletics.com/sports/mens-lacrosse
+2025,3,III,CNE,594541,U New England,MLA,1255,https://unewenglandathletics.com/sports/mens-lacrosse
+2025,3,III,Midwest Lacrosse Conference,594543,Northland,MLA,1267,https://northlandlumberjacks.com/sports/mens-lacrosse
+2025,3,III,Skyline,594545,St. Joseph's (L.I.),MLA,1340,https://stjosephs(li)athletics.com/sports/mens-lacrosse
+2025,3,III,PAC,594547,Westminster (PA),MLA,1451,https://westminster(pa)athletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594549,Wilmington (OH),MLA,1461,https://wilmingtonquakers.com/sports/mens-lacrosse
+2025,3,III,Landmark,594551,Goucher,MLA,1467,https://goucherathletics.com/sports/mens-lacrosse
+2025,3,III,Skyline,594553,Mt. St. Mary (NY),MLA,1468,https://mtstmary(ny)athletics.com/sports/mens-lacrosse
+2025,3,III,SAA,594555,Oglethorpe,MLA,2713,https://oglethorpeathletics.com/sports/mens-lacrosse
+2025,3,III,North Atlantic,594557,Thomas (ME),MLA,2758,https://thomas(me)athletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594559,Albertus Magnus,MLA,2798,https://albertusmagnusathletics.com/sports/mens-lacrosse
+2025,3,III,AMCC,594561,Hilbert,MLA,8398,https://hilbertathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Commonwealth,594564,Hood,MLA,8404,https://hoodathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594566,Lasell,MLA,8486,https://lasellathletics.com/sports/mens-lacrosse
+2025,3,III,SAA,594570,Southwestern (TX),MLA,8746,https://southwesternpirates.com/sports/mens-lacrosse
+2025,3,III,MAC Commonwealth,594572,Eastern,MLA,8968,https://easternathletics.com/sports/mens-lacrosse
+2025,3,III,United East,594574,Cairn,MLA,1305,https://cairnuniversityathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594575,Edgewood,MLA,1066,https://edgewoodathletics.com/sports/mens-lacrosse
+2025,3,III,United East,594577,Penn College,MLA,30190,https://penncollegeathletics.com/sports/mens-lacrosse
+2025,3,III,PAC,594578,Allegheny,MLA,19,https://alleghenyathletics.com/sports/mens-lacrosse
+2025,3,III,North Atlantic,594580,MCLA,MLA,486,https://mclatrailblazers.com/sports/mens-lacrosse
+2025,3,III,SUNYAC,594582,SUNY New Paltz,MLA,475,https://sunynewpaltzathletics.com/sports/mens-lacrosse
+2025,3,III,HCMLC,594584,Anderson (IN),MLA,939,https://anderson(in)athletics.com/sports/mens-lacrosse
+2025,3,III,North Atlantic,594586,SUNY Delhi,MLA,30225,https://delhiathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594588,Russell Sage,MLA,11036,https://russellsageathletics.com/sports/mens-lacrosse
+2025,3,III,Michigan Intercol. Ath. Assn.,594590,Kalamazoo,MLA,326,https://kalamazooathletics.com/sports/mens-lacrosse
+2025,3,III,CLC,594592,Kean,MLA,329,https://keanathletics.com/sports/mens-lacrosse
+2025,3,III,Little East,594594,Keene St.,MLA,330,https://keenestathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594597,Kenyon,MLA,335,https://kenyonathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Freedom,594599,King's (PA),MLA,336,https://kings(pa)athletics.com/sports/mens-lacrosse
+2025,3,III,MAC Freedom,594601,Lebanon Valley,MLA,351,https://lebanonvalleyathletics.com/sports/mens-lacrosse
+2025,3,III,Landmark,594604,Lycoming,MLA,373,https://lycomingathletics.com/sports/mens-lacrosse
+2025,3,III,North Atlantic,594607,Maine Maritime,MLA,378,https://mainemaritimeathletics.com/sports/mens-lacrosse
+2025,3,III,Skyline,594609,Manhattanville,MLA,382,https://manhattanvilleathletics.com/sports/mens-lacrosse
+2025,3,III,CLC,594611,Mary Washington,MLA,390,https://marywashingtonathletics.com/sports/mens-lacrosse
+2025,3,III,Atlantic East,594613,Marymount (VA),MLA,394,https://marymount(va)athletics.com/sports/mens-lacrosse
+2025,3,III,Atlantic East,594615,Marywood,MLA,397,https://marywoodathletics.com/sports/mens-lacrosse
+2025,3,III,NEWMAC,594617,MIT,MLA,398,https://mitathletics.com/sports/mens-lacrosse
+2025,3,III,Little East,594619,Mass. Maritime,MLA,399,https://massmaritimeathletics.com/sports/mens-lacrosse
+2025,3,III,Little East,594621,UMass Boston,MLA,401,https://umassbostonathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Commonwealth,594623,Messiah,MLA,411,https://messiahathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594625,Methodist,MLA,412,https://methodistathletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594626,Middlebury,MLA,420,https://middleburyathletics.com/sports/mens-lacrosse
+2025,3,III,CLC,594628,Montclair St.,MLA,442,https://montclairstathletics.com/sports/mens-lacrosse
+2025,3,III,Landmark,594630,Moravian,MLA,443,https://moravianathletics.com/sports/mens-lacrosse
+2025,3,III,Skyline,594632,UMSV,MLA,451,https://umsvathletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594634,Mount Union,MLA,452,https://mountunionathletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594635,Muhlenberg,MLA,453,https://muhlenbergathletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594638,Muskingum,MLA,455,https://muskingumathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594639,Nazareth,MLA,461,https://nazarethathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594642,New England Col.,MLA,467,https://newenglandcolathletics.com/sports/mens-lacrosse
+2025,3,III,Skyline,594644,SUNY Maritime,MLA,478,https://sunymaritimeathletics.com/sports/mens-lacrosse
+2025,3,III,CNE,594646,Nichols,MLA,484,https://nicholsathletics.com/sports/mens-lacrosse
+2025,3,III,CCIW,594648,North Central (IL),MLA,492,https://northcentral(il)athletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594650,Norwich,MLA,511,https://norwichathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594652,Oberlin,MLA,515,https://oberlinathletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594654,Ohio Northern,MLA,517,https://ohionorthernathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594655,Ohio Wesleyan,MLA,520,https://ohiowesleyanathletics.com/sports/mens-lacrosse
+2025,3,III,SUNYAC,594657,SUNY Oneonta,MLA,526,https://sunyoneontaathletics.com/sports/mens-lacrosse
+2025,3,III,SUNYAC,594659,Oswego St.,MLA,530,https://oswegostathletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594661,Otterbein,MLA,531,https://otterbeinathletics.com/sports/mens-lacrosse
+2025,3,III,SUNYAC,594663,Plattsburgh St.,MLA,547,https://plattsburghstathletics.com/sports/mens-lacrosse
+2025,3,III,SUNYAC,594665,SUNY Potsdam,MLA,552,https://sunypotsdamathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594667,Randolph-Macon,MLA,565,https://randolphmaconathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594669,Randolph,MLA,566,https://randolphathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594670,Regis (MA),MLA,569,https://regis(ma)athletics.com/sports/mens-lacrosse
+2025,3,III,SAA,594672,Rhodes,MLA,573,https://rhodesathletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594675,Roanoke,MLA,578,https://roanokeathletics.com/sports/mens-lacrosse
+2025,3,III,Liberty League,594677,RIT,MLA,580,https://ritathletics.com/sports/mens-lacrosse
+2025,3,III,CNE,594679,Roger Williams,MLA,583,https://rwuathletics.com/sports/mens-lacrosse
+2025,3,III,Atlantic East,594681,Gwynedd Mercy,MLA,12399,https://gwyneddmercyathletics.com/sports/mens-lacrosse
+2025,3,III,Atlantic East,594683,Centenary (NJ),MLA,12884,https://centenary(nj)athletics.com/sports/mens-lacrosse
+2025,3,III,United East,594685,Rosemont,MLA,15882,https://rosemontramblers.com/sports/mens-lacrosse
+2025,3,III,MAC Freedom,594687,Misericordia,MLA,16142,https://misericordiaathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594689,Rivier,MLA,18422,https://rivierathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594690,MSOE,MLA,20220,https://msoeathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594692,Piedmont,MLA,21830,https://piedmontathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594694,JWU (Providence),MLA,22626,https://jwu(providence)athletics.com/sports/mens-lacrosse
+2025,3,III,Skyline,594698,Purchase,MLA,30029,https://purchaseathletics.com/sports/mens-lacrosse
+2025,3,III,Michigan Intercol. Ath. Assn.,594702,Trine,MLA,30037,https://trineathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594704,Mitchell,MLA,30042,https://mitchellathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594709,Aurora,MLA,42,https://auroraathletics.com/sports/mens-lacrosse
+2025,3,III,NEWMAC,594711,Babson,MLA,45,https://babsonathletics.com/sports/mens-lacrosse
+2025,3,III,SAA,594715,Centre,MLA,132,https://centreathletics.com/sports/mens-lacrosse
+2025,3,III,NCAC,594717,Denison,MLA,182,https://denisonathletics.com/sports/mens-lacrosse
+2025,3,III,Centennial,594719,Dickinson,MLA,185,https://dickinsonathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594721,SUNY Geneseo,MLA,247,https://sunygeneseoathletics.com/sports/mens-lacrosse
+2025,3,III,Michigan Intercol. Ath. Assn.,594723,Hope,MLA,286,https://hopeathletics.com/sports/mens-lacrosse
+2025,3,III,CCIW,594725,Ill. Wesleyan,MLA,300,https://illwesleyanathletics.com/sports/mens-lacrosse
+2025,3,III,OAC,594728,John Carroll,MLA,320,https://johncarrollathletics.com/sports/mens-lacrosse
+2025,3,III,Great Northeast,594729,Saint Joseph (CT),MLA,8687,https://saintjoseph(ct)athletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594732,Lake Forest,MLA,344,https://lakeforestathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594734,St. John Fisher,MLA,601,https://stjohnfisherathletics.com/sports/mens-lacrosse
+2025,3,III,United East,594736,St. Mary's (MD),MLA,611,https://stmarys(md)athletics.com/sports/mens-lacrosse
+2025,3,III,CLC,594739,Salisbury,MLA,622,https://salisburyathletics.com/sports/mens-lacrosse
+2025,3,III,Landmark,594742,Scranton,MLA,633,https://scrantonathletics.com/sports/mens-lacrosse
+2025,3,III,MAC Freedom,594744,Stevens,MLA,679,https://stevensathletics.com/sports/mens-lacrosse
+2025,3,III,PAC,594747,Grove City,MLA,265,https://grovecityathletics.com/sports/mens-lacrosse
+2025,3,III,USA South,594749,Pfeiffer,MLA,542,https://pfeifferathletics.com/sports/mens-lacrosse
+2025,3,III,NESCAC,594752,Wesleyan (CT),MLA,764,https://wesleyan(ct)athletics.com/sports/mens-lacrosse
+2025,3,III,ODAC,594755,Lynchburg,MLA,374,https://lynchburgathletics.com/sports/mens-lacrosse
+2025,3,III,Little East,594758,Plymouth St.,MLA,548,https://plymouthstathletics.com/sports/mens-lacrosse
+2025,3,III,Liberty League,594760,Rensselaer,MLA,570,https://rensselaerathletics.com/sports/mens-lacrosse
+2025,3,III,CNE,594762,Endicott,MLA,8981,https://endicottathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594764,SUNY Poly,MLA,9500,https://sunypolywildcats.com/sports/mens-lacrosse
+2025,3,III,MAC Commonwealth,594766,Stevenson,MLA,21852,https://stevensonathletics.com/sports/mens-lacrosse
+2025,3,III,Skyline,594769,Farmingdale St.,MLA,27892,https://farmingdalestathletics.com/sports/mens-lacrosse
+2025,3,III,HCMLC,594771,Transylvania,MLA,28749,https://transylvaniaathletics.com/sports/mens-lacrosse
+2025,3,III,Empire 8,594845,Elmira,MLA,213,https://elmiraathletics.com/sports/mens-lacrosse
+2025,3,III,NACC,594946,Lawrence,MLA,348,https://lawrenceathletics.com/sports/mens-lacrosse
+2025,3,III,AMCC,594947,Alfred St.,MLA,30170,https://alfredstathletics.com/sports/mens-lacrosse
+2025,3,III,AMCC,594948,Pitt.-Bradford,MLA,1315,https://pittbradfordathletics.com/sports/mens-lacrosse
